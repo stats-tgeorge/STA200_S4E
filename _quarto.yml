@@ -40,16 +40,16 @@ website:
       #   contents:
         - href: course-description.qmd
           text: Course Description
-        # - href: schedule.qmd
-        #   text: Course Content Schedule
+        - href: schedule.qmd
+          text: Course Content Schedule
         - href: https://stats-tgeorge.github.io/personal_website/course-support.html
           text: Support
         - href: course-instructor.qmd
           text: Instructor Information
         # - href: project-description.qmd
         #   text: Project Description
-        # - href: course-syllabus.qmd
-        #   text: Syllabus
+        - href: course-syllabus.qmd
+          text: Syllabus
         - href: course-links.qmd
           text: Useful Links
         - href: supplement.qmd
