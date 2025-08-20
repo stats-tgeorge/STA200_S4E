@@ -1,0 +1,14 @@
+---
+title: "STA 200: Using Statistics to Understand Engagement Patterns"
+---
+
+## Initial Course Description:
+
+This course will examine factors impacting Iowans' engagement with Waypoints services. The course will include (1) learning the descriptive statistics needed to investigate data, (2) communicating with Waypoint representatives to establish straightforward research questions, learning what data need to be collected and how to access various databases, (3) completing the analysis of their data, and (4) present your findings. We may go off-campus to present our findings to Waypoint and participate in other relevant activities. Everybody must sign a confidentiality agreement to participate in this course, as we will be working with private data.
+
+
+<!-- #### Student Sample Final Project -->
+
+<!-- {{< pdf course-materials/student_finals/group3_infographic.pdf width=75% height=1000 >}} -->
+
+<!-- <!--https://github.com/jmgirard/embedpdf -->

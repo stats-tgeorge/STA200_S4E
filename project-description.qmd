@@ -1,0 +1,229 @@
+---
+title: "Community Partner Project"
+---
+
+You will be working with the data we cultivate in conjunction with Waypoint and Iowa Legal Aid. The goal of this project is for you to work with this data, use descriptive statistics to investigate the following research questions:
+
+1.  For those who have completed the waypoint program, is there a relationship between the race and/or gender of the individuals and evictions?
+
+2.  For those who have completed the waypoint program, is there a relationship between the race and/or gender of the individuals and who successfully completes a program?
+
+3.  Is there a relationship between the race and/or gender of the individuals and who uses, and reuses housing programs?
+
+The goal is not to do an exhaustive data analysis i.e., do not calculate every statistic and procedure you have learned for every variable, but rather to visualize the data in a presentable, interpretative way to a public audience, potentially including young children. Issues pertaining to the reliability and validity of your data, and appropriateness of the statistical analysis should be discussed in your groups.
+
+The project is very open ended. You should conduct an investigation of the data, investigate variables, and searching for insights. You should also create at least one very compelling visualization to can be used to shed light on your research question.
+
+Some ideas:
+
+-   Brochure
+
+-   Comics
+
+-   Children's Book
+
+-   Poster/infographic
+
+-   Video/tik tok
+
+### Deliverables and Due Dates
+
+1)  Mid Block Presentation - Due Friday September 8th at 10am
+2)  Present Mid Block Presentation - Friday September 8th
+3)  Analysis report - Due Thursday September 14th at 11:59 pm via [Moodle](https://moodle.cornellcollege.edu/mod/assign/view.php?id=274698&forceview=1).
+4)  In progress final visual with presentation - Tentatively Due Friday September 15th at 2pm
+5)  Final visual - Tentatively Due Monday September 18th at 3pm
+6)  SYS Showcase - Tuesday September 19th
+7)  Final Presentation to Waypoint - Wednesday September 20th
+
+### Mid-Block Presentation
+
+Due to the time it takes to do our data collection, this first presentation is more of an update for our partner, Waypoint. We will meet via Zoom; find the zoom link on our Google Calendar. I would like your group to include the following.
+
+#### Presentation Contents
+
+Including all of the items in your presentation. Use Google Slides saved in your group folder. Export the slides as PDF and submit them to Moodle immediately following the presentation Friday September 8th. I am asking your group to present for about 8-15 minutes total.
+
+| Total                                                                                                                                                                                          | 50 pts |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------|
+| Describe your project goals, in your groups words. Include the formal research questions.                                                                                                      | 5 pts  |
+| Discuss the data collection your groups has been doing and the challenges involved. Consider the notes you have taken and different situations your group had to consider when recording data. | 15 pts |
+| Give a data analysis plan. What types of tables and graphs will be useful given the variables we will have available and research questions?                                                   | 10 pts |
+| Discuss what form you want your final project to take (some examples above).                                                                                                                   | 10 pts |
+| Organization of Presentation                                                                                                                                                                   | 10 pts |
+
+#### Presentation
+
+I am asking your group to present for about 8-15 minutes total.
+
+| Total                                                                                                            | 50 pts |
+|------------------------------------------------------------------------------------------------------------------|--------|
+| Time management: Did the team divide the time well among themselves or got cut off going over time?              | 15 pts |
+| Professionalism: How well did the team present? Does the presentation appear to be well practiced?               | 15 pts |
+| Teamwork: Did the team present a unified story, or did it seem like independent pieces of work patched together? | 10 pts |
+| Flow: Did the presentation move in a linear fashion outlining your projected process in a logical order.         | 10 pts |
+
+### Analysis Report
+
+The report is written toward your professor (not a general audience). It's purpose is to organize and detail all of your analysis you would like to use in your final product. Thus, if you decide a particular visualization is not useful don't include it.
+
+#### 1. Title
+
+Give an informative title to your project.
+
+*Assessment: Does the title give an accurate preview of what the paper is about? Is it informative, specific and precise?*
+
+#### 2. Background and significance
+
+In this section you are providing the background of the project area and arguing why it is interesting and significant. This section relies heavily on literature review (prior research done in this area and facts that argue why the research is important). This whole section should provide the necessary background leading up to your presentation. Well-accepted facts and/or referenced statements should serve as the majority of content of this section. Typically, the background and significance section starts very broad and moves towards the specific topic your group is presenting on.
+
+*Assessment:*
+
+\- *Does the background and significance have a logical organization? Does it move from the general to the specific?*
+
+\- *Has a reasonable explanation been given for why the research was done? Why is the work important? Why is it relevant?*
+
+\- *Does this section end with statements about the hypothesis/goals of the work?*
+
+#### 3. Methods
+
+a.  Data collection. Explain how the data was collected and where it is from. Who is it about?
+
+b.  Variables and variable creation. Detail the variables in your analysis and how they are defined (if necessary). For example, if your group, or your professor, created new variables based on the raw data, or summaizes data, you make sure to define the new variables. Consider how some of the variables were collected by Waypoint or others and include that in your definitions.
+
+c.  Analytic Methods. Explain the statistical procedures that will be used to analyze your data. E.g. Boxplots are used to xxx and are created by xxx. You are not giving your results yet but giving textbook like explanations of all methods used.
+
+*Assessment:*
+
+-   *Could the study be repeated based on the information given here?*
+
+-   *Is the material organized into logical categories (like the one's above)?*
+
+#### 4. Results
+
+Typically, results sections start with descriptive statistics, e.g. what percent of the sample is each gender, what is the mean number of evictions overall, in the different groups, etc. Figures can be nice to illustrate these differences! However, information presented must be relevant in helping to answer the research question(s) of interest.
+
+Tables and figures should be labeled, embedded in the text, and referenced appropriately. The results section typically makes for fairly dry reading. It does not explain the impact of findings, it merely highlights and reports statistical information.
+
+*Assessment:*
+
+-   *Is the content appropriate for a results section? Is there a clear description of the results?*
+
+-   *Are the results/data analyzed well? Given the data in each figure/table is the interpretation accurate and logical? Is the analysis of the data thorough (anything ignored?)*
+
+-   *Are the figures/tables appropriate for the data being discussed? Are the figure legends and titles clear and concise?*
+
+#### 5. Discussion/Conclusions
+
+Restate your objective and draw connections between your analyses and objective. In other words, how did (or didn't) you answer/address your objective. Place these all in the larger scope of previous research on your topic (i.e. what you found from the literature review), that is, how do your findings help the field move forward? Talk about the limitations of your findings and possible areas for future research to better investigate your research question. End with a concluding sentence or two that summarizes your key findings and impact on the field.
+
+*Assessment:*
+
+-   *Do the authors clearly state whether the results answer the questions?*
+
+-   *Were specific data cited from the results to support each interpretation? Does the author clearly articulate the basis for supporting or rejecting each hypothesis?*
+
+-   *Does the author adequately relate the results of the current work to previous research?*
+
+#### 6. References
+
+Use a standard such as APA or Chicago style for your references. Be consistent.
+
+*Assessment:*
+
+-   *Are the references appropriate and of adequate quality?*
+
+-   *Are the references cited properly (both in the text and at the end of the paper)?*
+
+#### 7. Technical Quality
+
+Clarity, organization, and writing quality (typos, grammar).
+
+Credit: [The Undergraduate Statistics Project Competition](https://www.causeweb.org/usproc/report-template)
+
++-----------------------+---------+
+| Total                 | 200 pts |
++=======================+=========+
+| 1.  Title             | 10 pts  |
++-----------------------+---------+
+| 2.  Background        | 40 pts  |
++-----------------------+---------+
+| 3.  Methods           | 40 pts  |
++-----------------------+---------+
+| 4.  Results           | 40 pts  |
++-----------------------+---------+
+| 5.  Conclusions       | 30 pts  |
++-----------------------+---------+
+| 6.  References        | 20 pts  |
++-----------------------+---------+
+| 7.  Technical Quality | 20 pts  |
++-----------------------+---------+
+
+### Visual
+
+#### Final Visual - In Progress
+
+You and your group will present your ongoing project visual to your professor. This is less of a presentation and more of showing your plots and tables that will go into your visual, and having a detailed written plan.
+
+| Total                                                                                                                                                                                                                                         | 50 pts |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------|
+| Identified the plots/tables from you analysis that will be included (they don't need to look perfect yet). If you are creating something with a software other than Minitab you still need to show a version of that in progress table/graph. | 15 pts |
+| Explain and justify your choices of graphs/tables. Consider your audience.                                                                                                                                                                    | 15 pts |
+| Have a working version of your visual such as software template you are filling in.                                                                                                                                                           | 10 pts |
+| A written outline of what is to be included in your visual and your graphs/tables chosen. Consider small details such as references.                                                                                                          | 10 pts |
+
+#### Final Visual
+
+The final visual as no specified requirement of medium but will be evaluated on the following criteria.
+
+| Total                                                             | 200 pts |
+|-------------------------------------------------------------------|---------|
+| Aestetics                                                         | 50 pts  |
+| Correctness of Statistical Analysis and Interpretation            | 50 pts  |
+| Information Delivery (writing and graphs match intended audience) | 50 pts  |
+| Connects literature and current research                          | 50 pts  |
+
+### Final Visual Presentations
+
+Consider the different audiences when presenting your visuals.
+
+[Submit main file or files on Moodle](https://moodle.cornellcollege.edu/mod/assign/view.php?id=275018).
+
+#### Waypoint and Showcase Presentations
+
+| Total                                                                                                                                                                                                         | 50 pts each pres. |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------|
+| Time management: Did the team divide the time well among themselves? Did the presentation stay within the intended time?                                                                                      | 3 pts             |
+| Project Focuss: Is the research question and/or purpose well designed and stated?                                                                                                                             | 5 pts             |
+| Professionalism: How well did the team present? Does the presentation appear to be well practiced? Did everyone get a chance to say something meaningful about the project?                                   | 5 pts             |
+| Teamwork: Did the team present a unified story, or did it seem like independent pieces of work patched together?                                                                                              | 5 pts             |
+| Content: Did the team use impact visualizations and/or appropriate statistical procedures, and interpret the results accurately?                                                                              | 10 pts            |
+| Creativity and Critical Thought: Is the project carefully thought out? Are the limitations carefully considered? Does it appear that time and effort went into the planning and implementation of the visual? | 5 pts             |
+| Visual/oranization: Is the visual well organized, readable, not full of text, featuring figures with legible labels, legends, etc.?                                                                           | 10 pts            |
+| Audience: Is the presentation appropriate for the audience?                                                                                                                                                   | 7 pts             |
+
+### Overall Project Points
+
+| Total                                      | 650 pts |
+|--------------------------------------------|---------|
+| Mid Block Presentation (files contents)    | 50 pts  |
+| Mid Block Presentation                     | 50 pts  |
+| Analysis report                            | 200 pts |
+| In progress final visual with presentation | 50 pts  |
+| Final visual                               | 200 pts |
+| Final Presentation to Waypoint             | 50 pts  |
+| SYS Showcase                               | 50 pts  |
+
+### General Criteria/Rubric
+
+A general breakdown of scoring is as follows:
+
+-   90%-100% - Outstanding effort. Student understands how to apply all statistical concepts, can put the results into a visual that is interpretable to a general audience.
+-   80%-89% - Good effort. Student understands most of the concepts, puts together an adequate argument, and communicates most results clearly to others in interpretable visual.
+-   70%-79% - Passing effort. Student has misunderstanding of concepts in several areas, has some trouble putting results together in a cogent argument, and communication of results is sometimes unclear.
+-   60%-69% - Struggling effort. Student is making some effort, but has misunderstanding of many concepts and is unable to put together a cogent argument. Communication of results is unclear.
+-   Below 60% - Student is not making a sufficient effort.
+
+### Team peer evaluation
+
+You are to complete the assignment as a team. All team members are expected to contribute equally to the completion of this assignment and team evaluations will be given at its completion - anyone judged, *by their teammates*, to not have sufficient contributed to the final product will have their grade penalized. While different teams members may have different backgrounds and abilities, it is the responsibility of every team member to understand how and why all analysis was completed. You will be asked to fill out a survey where you report a contribution percentage for each team member. If you are suggesting that an individual did less than 20% of the work, please provide some explanation. *If any individual gets an average peer score indicating that they did less than 10% of the work, this person will receive half the grade of the rest of the group.*

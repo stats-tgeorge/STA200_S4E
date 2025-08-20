@@ -1,0 +1,62 @@
+---
+title: "Project Rubric For Grading the Analysis Report"
+format: 
+  html: default
+  docx: default
+---
+
+### Group:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
++------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------+---------+
+| Total                                                                                                                                                                              | Scored Points | 200 pts |
++====================================================================================================================================================================================+===============+=========+
+| 1.  Title                                                                                                                                                                          |               | 10 pts  |
+|                                                                                                                                                                                    |               |         |
+|     *Does the title give an accurate preview of what the paper is about? Is it informative, specific and precise?*                                                                 |               |         |
++------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------+---------+
+| 2.  Background                                                                                                                                                                     |               | 40 pts  |
+|                                                                                                                                                                                    |               |         |
+|     *Does the background and significance have a logical organization? Does it move from the general to the specific?*                                                             |               |         |
+|                                                                                                                                                                                    |               |         |
+|     *Has a reasonable explanation been given for why the research was done? Why is the work important? Why is it relevant?*                                                        |               |         |
+|                                                                                                                                                                                    |               |         |
+|     *Does this section end with statements about the hypothesis/goals of the work?*                                                                                                |               |         |
++------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------+---------+
+| 3.  Methods                                                                                                                                                                        |               | 40 pts  |
+|                                                                                                                                                                                    |               |         |
+|     *Could the study be repeated based on the information given here?*                                                                                                             |               |         |
+|                                                                                                                                                                                    |               |         |
+|     *Is the material organized into logical categories (like the one's above)?*                                                                                                    |               |         |
++------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------+---------+
+| 4.  Results                                                                                                                                                                        |               | 40 pts  |
+|                                                                                                                                                                                    |               |         |
+|     *Is the content appropriate for a results section? Is there a clear description of the results?*                                                                               |               |         |
+|                                                                                                                                                                                    |               |         |
+|     *Are the results/data analyzed well? Given the data in each figure/table is the interpretation accurate and logical? Is the analysis of the data thorough (anything ignored?)* |               |         |
+|                                                                                                                                                                                    |               |         |
+|     *Are the figures/tables appropriate for the data being discussed? Are the figure legends and titles clear and concise?*                                                        |               |         |
++------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------+---------+
+| 5.  Conclusions                                                                                                                                                                    |               | 30 pts  |
+|                                                                                                                                                                                    |               |         |
+|     *Do the authors clearly state whether the results answer the questions?*                                                                                                       |               |         |
+|                                                                                                                                                                                    |               |         |
+|     *Were specific data cited from the results to support each interpretation? Does the author clearly articulate the basis for supporting or rejecting each hypothesis?*          |               |         |
+|                                                                                                                                                                                    |               |         |
+|     *Does the author adequately relate the results of the current work to previous research?*                                                                                      |               |         |
++------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------+---------+
+| 6.  References                                                                                                                                                                     |               | 20 pts  |
+|                                                                                                                                                                                    |               |         |
+|     *Are the references appropriate and of adequate quality?*                                                                                                                      |               |         |
+|                                                                                                                                                                                    |               |         |
+|     *Are the references cited properly (both in the text and at the end of the paper)?*                                                                                            |               |         |
++------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------+---------+
+| 7.  Technical Quality                                                                                                                                                              |               | 20 pts  |
+|                                                                                                                                                                                    |               |         |
+|     *Clarity, organization, and writing quality (typos, grammar).*                                                                                                                 |               |         |
++------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------+---------+
+
+: {.table-bordered}
+
+Credit: [The Undergraduate Statistics Project Competition](https://www.causeweb.org/usproc/report-template)
+
+Comments:

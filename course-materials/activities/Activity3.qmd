@@ -1,0 +1,22 @@
+---
+title: "Activity 3 - Using Waypoints Database"
+format: 
+  html: default
+  docx: default
+---
+
+In this activity I would like each group to practice using Waypoints database. Read the Waypoint instructions vary carefully. Answer the following questions.
+
+1.  Which part of a clients page will you find when they entered and exited a service rendered?
+
+2.  Two acronyms being used are RRH and ES; what do they stand for?
+
+3.  How many years of data are we going to work with?
+
+4.  How can you see what the exit destination was and if it was successful exit?
+
+5.  What variables and what are the levels of the variables we are going to collect information on?
+
+6.  Practice. Create a table below with the variables as columns and the individuals as rows. For the the five clients who are listed on the whiteboard, fill in your table. Each group member needs to complete 1 entry.
+
+Once complete this short activity, I would like your group to start planning whys we can use this data to investigate inequities we have been discussing in class. We will soon cover some statistics but start considering how you will summarize and visualize this information in a way that will informative, meaningful, and easily understandable to the public. I encourage you to also look for examples online and include them in a document shared in your group folder. Make sure to cite your sources.

@@ -1,0 +1,43 @@
+---
+title: "Lead Me Home Question Answers"
+editor: visual
+format: 
+  html: default
+  docx: default
+---
+
+#### Instructions: Using at least 1 source, answer one of the two questions asked by your classmates. You can either find your own sources, and/or use any of sources below. Cite any used reference. You can download a word document on the right hand side of the page. Save as a pdf and upload to Moodle or paste your response into Moodle. [Submit on Moodle.](https://moodle.cornellcollege.edu/mod/assign/view.php?id=274945)
+
+#### **Please write at least 250 words.**
+
+-   When looking back, were their key events that if approached differently would have prevented homelessness in the US? What can we learn from these events?
+
+-   There was a 50 year period where African Americans didn't have any rights to ownership. Why did it take so long to change?
+
+### [Sources from Lead Me Home:]{.underline}
+
+#### Documents:
+
+-   [The Great Depression](course-materials/documents/Reading_1_The_Great_Depression.pdf "Source: Lead Me Home - www.leadmehomefilm.com")
+
+-   [T](course-materials/documents/Reading_2_The_New_Deal.pdf)[he New Deal](course-materials/documents/Reading_2_The_New_Deal.pdf "Source: Lead Me Home - www.leadmehomefilm.com")
+
+-   [Social Safety Net](course-materials/documents/Reading_3_Social_Safety_Net.pdf "Source: Lead Me Home - www.leadmehomefilm.com")
+
+#### Web Sources:
+
+-   Why is homelessness a systems problem?
+
+    <https://community.solutions/why-is-homelessness-a-systems-problem/>
+
+-   Why You Aren't Homeless: How Privilege & Fortune Shape the Shelter Census
+
+    <https://citylimits.org/2020/07/13/why-you-arent-homeless-how-privilege-fortune-shape-the-shelter-census/>
+
+-   The 12 Biggest Myths about Homelessness in America
+
+    <https://www.nyu.edu/about/news-publications/news/2019/september/HomelessQandA.html>
+
+-   As Coronavirus Magnifies America's Housing Crisis, FDR's New Deal Could Offer a Roadmap Forward
+
+    <https://time.com/5826392/coronavirus-housing-history/>

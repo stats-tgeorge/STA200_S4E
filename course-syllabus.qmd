@@ -1,0 +1,14 @@
+---
+title: "Syllabus"
+---
+
+[**Click here**](/course-materials/documents/STA 200 SYS F25 Syllabus.pdf "PDF of syllabus") **to download a PDF copy of the FULL syllabus.**
+
+## Textbooks
+
+While there is no official textbook for the course, we will be assigning readings from the following textbooks.
+
+-   [OpenInto Statistics](https://www.openintro.org/book/os/) by David Diez, Mine Çetinkaya-Rundel, and Christopher Barr
+
+-   [Introduction to Modern Statistics](https://openintro-ims.netlify.app/) by Mine Çetinkaya-Rundel and Johanna Hardin
+

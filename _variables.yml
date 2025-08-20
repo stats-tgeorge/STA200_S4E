@@ -1,0 +1,46 @@
+author: Tyler George
+
+instructor:
+  name: Dr. Tyler George
+  name_no_title: Tyler George
+  email: tgeorge@cornellcollege.edu
+  url: "https://stats-tgeorge.github.io/personal_website/"
+ # moodle: "https://moodle.cornellcollege.edu/user/profile.php"
+  twitter: stats_tgeorge
+  github: stats-tgeorge
+  office: "West 311"
+  officehrs: "MWTh 3:05pm-4:05pm and by appt."
+  appointment_url: "https://calendar.app.google/JpmkLvmroqPDEXDt5"
+
+course:
+  title: "Time Series Applications"
+  #subtitle: "Applied Generalized Linear Models and Multilevel Models in R"
+  number: "STA 364"
+  semester: "Spring 2025 Block 5"
+  class_time: "9:00 am - 11:00 am and 1:00 pm - 3:00 pm"
+  dates: "January 13th to February 5th"
+  exam_dates: "1/23 and 2/4-2/5"
+  location: "West 213"
+  github: "https://github.com/stats-tgeorge/STA364_TSApps"
+  coursecal: "https://calendar.google.com/calendar/u/0?cid=Y19mNDVlZjMyN2U1NjgzNWEwMjU3ODk4MGRjYTkyYWNhOWYzY2ExNmQxMWE2ODgxMGZhMzQ2ZTRlM2FiOGY1NzQ0QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20"
+  moodle: "https://moodle.cornellcollege.edu/course/view.php?id=8175"
+  mgradebook: "https://moodle.cornellcollege.edu/grade/report/grader/index.php?id=8175"
+  url: "https://stats-tgeorge.github.io/STA364_TSApps/"
+  copyright_year: "2025"
+  text: | 
+    The textbook is: [Forecasting: Principles and Practice](https://otexts.com/fpp3/) by Rob J Hyndman and George Athanasopoulos -- it is freely available online. Chapters 1-9.
+  # text2: |    
+  #   The secondary text is: [An Introduction to Statistical Learning with Applications in R](https://hastie.su.domains/ISLR2/ISLRv2_corrected_June_2023.pdf.download.html)  by Gareth James, Daniela Witten, Trevor Hastie, and Robert Tibshirani -- it is freely available online. Chapter 7.
+  description: "Time series analysis is a vital tool for investigating data from many fields, such as business, economics, engineering, biology, medicine, social sciences, and politics. Understanding and anticipating a variable's change over time is valuable. This class will cover an array of time series methods, including those for correlation analysis and forecasting, stochastic models, regression analysis with time-related variables, and stationary/nonstationary models."
+  pre_req: "STA 201 and STA 202"
+  text_link: "https://otexts.com/fpp3/"
+  
+college:
+  name: Cornell College
+  url: "www.cornellcollege.edu"
+  rstudio: "http://turing.cornellcollege.edu:8787/"
+  support: "https://stats-tgeorge.github.io/personal_website/course-support.html"
+
+# citation:
+  # websource_1: Dr. Lucy D’Agostino McGowan
+  # websource_2: Dr. Maria Tackett

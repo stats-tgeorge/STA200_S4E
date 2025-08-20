@@ -1,0 +1,63 @@
+---
+title: "Supplementary Documents"
+---
+
+## Templates
+
+-   [Virtual poster](course-materials/documents/Virtual%20Poster%20Template.pptx)
+
+-   [Poster](course-materials/documents/Poster%20Template.pptx)
+
+## Other Class Documents
+
+-   [Waypoint Volunteer Application](course-materials/documents/Waypoint%20Volunteer%20Application.pdf)
+
+-   [Reflection Rubric](course-materials/documents/reflectionrubric.qmd)
+
+-   [Analysis Report Rubric](course-materials/documents/project_rubric_grading.qmd) (for grading)
+
+## Artifact Resource List
+
+-   "Why Black Women Are More Likely to Face Eviction" (35 minutes).
+
+    <https://www.kqed.org/news/11905386/why-black-women-are-more-likely-to-face-eviction>
+
+-   "An Anti-Racist Approach to Data Science" (25 minutes)
+
+    <https://statsandstories.net/society1/an-anti-racist-approach-to-data-science>
+
+-   "Segregated by Design" video (17 minutes but is a summary book of the same name)
+
+    <https://www.segregatedbydesign.com/watch/>
+
+-   "Women's Homelessness in Canada: A gendered experience" (76 minutes)
+
+    <https://crsp-talk.simplecast.com/episodes/womens-homelessness>
+
+-   "Lead Me Home" (42 minutes, Netflix but can get free access for teaching)
+
+    -   Includes video and well designed teaching materials with very detailed instructor support
+
+        <https://www.leadmehomefilm.com/>
+
+-   "4 Approaches to Multiple-Race Questions" Short article
+
+    <https://weallcount.com/2022/10/27/4-approaches-to-multiple-race-questions/>
+
+<!-- -->
+
+-   "Why is homelessness a systems problem?"
+
+    <https://community.solutions/why-is-homelessness-a-systems-problem/>
+
+-   "Why You Aren't Homeless: How Privilege & Fortune Shape the Shelter Census"
+
+    <https://citylimits.org/2020/07/13/why-you-arent-homeless-how-privilege-fortune-shape-the-shelter-census/>
+
+-   "The 12 Biggest Myths about Homelessness in America"
+
+    <https://www.nyu.edu/about/news-publications/news/2019/september/HomelessQandA.html>
+
+-   "As Coronavirus Magnifies America's Housing Crisis, FDR's New Deal Could Offer a Roadmap Forward"
+
+    <https://time.com/5826392/coronavirus-housing-history/>
