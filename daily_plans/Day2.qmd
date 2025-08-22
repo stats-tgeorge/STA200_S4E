@@ -1,0 +1,27 @@
+---
+title: "Day 2"
+format: html
+date: "26-August-2025"
+Homework Due: August 27th at 9am
+description: Housing Inequity and OI 1.1 & 1.2 - Case Study and Data Basics
+---
+
+## Class Topics
+
+- SYS Showcase Inoformation (15-20min)
+
+- Class discussion on Citizenship. 
+
+- OpenIntro Sections 1.1 and 1.2
+
+- *Lead me Home*
+  - Watch Lead me Home Documentary
+  - Lead me Home activity parts 1 and 2
+  
+## Homework
+
+Lead Me home Part 3
+
+OI exercises: 
+
+

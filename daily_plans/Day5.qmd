@@ -1,0 +1,25 @@
+---
+title: "Day 5"
+format: html
+date: "29-August-2025"
+Homework Due: September 1st at 9am
+description: OI 2.1 & 2.2 - Numerical and Categorical Data and Group Project Time
+---
+
+## Class Topics
+
+- OpenIntro homework discussion
+
+- Class discussion on "Why Black Women Are More Likely to Face Eviction."
+
+- OpenIntro Sections 2.1 & 2.2 - Numerical and Categorical Data
+
+- [Minitab](https://app.minitab.com) introduction. 
+
+- Activity 3 - Starting to explore Waypoint Data
+
+## Homework 
+
+- OI exercises: 
+
+

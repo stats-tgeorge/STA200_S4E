@@ -1,0 +1,28 @@
+---
+title: "Day 4"
+format: html
+date: "28-August-2025"
+Homework Due: August 29th at 9am
+description: Starting Waypoint group projects, OI 1.4 - Experiments
+---
+
+## Class Topics
+
+- OpenIntro homework discussion
+
+- Class discussion on "An Anti-Racist Approach to Data Science". 
+
+- Group project overview
+
+- Activity 2 - Getting Started with Waypoint Data
+
+- OpenIntro Section 1.4 - Experiments
+
+
+## Homework 
+
+- Listen to podcast “[Why Black Women Are More Likely to Face Eviction](https://www.kqed.org/news/11905386/why-black-women-are-more-likely-to-face-eviction)” (35 minutes)
+  - Write a reflection and submit HERE. Reflection rubric HERE. 
+  - Submit a question for class discussion HERE.
+  
+- OI exercises: 

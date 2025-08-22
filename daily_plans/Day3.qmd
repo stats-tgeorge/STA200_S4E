@@ -1,0 +1,23 @@
+---
+title: "Day 3"
+format: html
+date: "27-August-2025"
+Homework Due: August 28th at 9am
+description: Disparity Trap & OI 1.3 - Sampling principals and strategies
+---
+
+## Class Topics
+
+- OpenIntro homework discussion
+
+- Disparity Trap board game and activities. 
+
+- OpenIntro Section 1.3 - Sampling principals and strategies
+
+## Homework 
+
+- Listen to podcast “[An Anti-Racist Approach to Data Science](https://statsandstories.net/society1/an-anti-racist-approach-to-data-science)” (25 minutes)
+  - Write a reflection and submit HERE. Reflection rubric HERE. 
+  - Submit a question for class discussion HERE.
+
+- OI exercises: 
