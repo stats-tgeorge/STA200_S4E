@@ -1,13 +1,13 @@
 ---
-title: "Activity 1 - Why Investigate Inequity in Iowa?"
+title: "Activity 1 - What is Inequity?"
 format: 
   html: default
   docx: default
 ---
 
-Waypoint Services has tasked us to investigate a community service to help people who are houseless. Let's start by understanding inequity in housing.
+Waypoint Services has tasked us to investigate a community service to help houseless people, specifically a program for people who have been incarcerated recently. Let's start by understanding inequity in housing.
 
-[**Google Drive:**]{.underline} As part of the first activity, please create a shared Google Drive folder for your group this block and upload your .docx file to that folder. Once uploaded, you will all be able to work on that document at one time.
+[**Google Drive:**]{.underline} As part of the first activity, please create a shared Google Drive folder for your group this block and upload your .docx file to that folder. Once uploaded, you will all be able to work on that document at the same time.
 
 [**Roles:**]{.underline} In this activity, you will all be responsible for conducting searches and reviewing items found. Generally, you will all have assigned roles, but in this case, you should all be working on the shared document, adding different items as explained below. Please choose a facilitator.
 
@@ -23,14 +23,14 @@ Facilitator (make sure everybody is given space to share regularly)\_\_\_\_\_\_\
 
 **Stop for class discussion.**
 
-4.  Now that you have a definition for inequity, you can start to look for it in Iowa. In groups, please look for some anecdotal evidence. This type of evidence is primarily what Waypoint has founded their suspicions of inequity on. We are specifically looking for inequity in Iowa and how it relates to having a home.
+4.  Now that you have a definition for inequity, you can start to look for it in Iowa. In groups, please look for some anecdotal evidence. We are explicitly looking for inequity in Iowa and how it relates to having a home.
 
-    Start by talking among your group how you will search: what key words will you use? What do you consider are your likely sources? What is a quality source? How will you know if your search is thorough enough? There have been two natural disaster in Iowa in the last 20 years, a flood and a derecho, both of which destroyed many homes. Consider these events when conducting your search. Your goal is to
+    Begin by discussing with your group how you will search: what keywords will you use? What do you consider are your likely sources? What is a quality source? How will you know if your search is thorough enough? There have been two natural disasters in Iowa in the last 20 years, a flood and a derecho, both of which destroyed many homes. Consider these events when conducting your search.
 
-    Collect all of your search results into your shared document as you go along. Make sure you are taking notes on each sources so you remember why you included it. (make sure to cite your sources, websites are fine in this case)
+    Collect all of your search results into your shared document as you go along. Make sure you are taking notes on each source so you remember why you included it. (Make sure to cite your sources; websites URLs are fine in this case.)
 
-    *Example of notes: "www.example.///." shows a video of those most affected by the derecho and features a person of color who is now homeless. They discuss how most of the that neighborhood are individual of color*
+    *Example of notes: "www.example.///." shows a video of those most affected by the derecho and features a person of color who is now homeless. They discuss how most of the people in that neighborhood are individuals of color.*
 
-    Aim for at least 10 to 20 examples. You have a group for good reason.
+    Aim for at least 5 to 10 examples. You have a group for good reason.
 
-5.  Create a presentation to be presented today on your findings. Use your examples to tell a story. You can use Powerpoint or other visualizing software but you are not required to. Make your presentation compelling and feel free to show off some of the most meaningful examples. All students must present some of your findings.
+5.  Create a presentation to be presented today on your findings (3min-5min). Use your examples to tell a story. You can use PowerPoint or other visualizing software. Make your presentation compelling, and feel free to show off some of the most meaningful examples. All students must present some of their findings.

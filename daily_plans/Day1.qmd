@@ -12,15 +12,13 @@ description: Waypoint Intro, Intros, What is inequity?
 
 - Class introductions
 
-- Get into groups and fill out group expectations. 
-
-- Discuss discussion norms.
+- Discuss discussion norms and fill out group expectations. See [THIS LINK](/course-materials/documents/teamcontracttemplate.docx) for a template. 
 
 - [Activity 1](/course-materials/activities/Activity1.qmd) - Why Investigate Inequity in Iowa?
 
 ## Homework
 
-- Read *Citizenship* chapter by **Lauren Berlant** HERE.
-  - Write a reflection and submit HERE. Reflection rubric HERE. 
-  - Submit a question for class discussion HERE.
+- Read *Citizenship* chapter by **Lauren Berlant** available at [THIS LINK](/course-materials/documents/Berlant-Citizenship.pdf).
+  - Write a reflection and submit at [THIS LINK](https://moodle.cornellcollege.edu/course/section.php?id=68561). Reflection rubric can be seen at [THIS LINK](/course-materials/documents/reflectionrubric.qmd). 
+  - Submit a question for class discussion at  [THIS LINK](https://moodle.cornellcollege.edu/mod/forum/view.php?id=337610).
 

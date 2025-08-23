@@ -38,10 +38,10 @@ website:
     contents:
       # - section: "Course information"
       #   contents:
+        - href: a_schedule.qmd
+          text: Course Content Schedule
         - href: course-description.qmd
           text: Course Description
-        - href: schedule.qmd
-          text: Course Content Schedule
         - href: https://stats-tgeorge.github.io/personal_website/course-support.html
           text: Support
         - href: course-instructor.qmd

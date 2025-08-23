@@ -1,13 +1,15 @@
 ---
-title: "Useful links"
+title: "Useful Links"
 ---
 ## Course Links
 |                            |                                                                                         |
 |----------------|--------------------------------------------------------|
 | RStudio Server             | 🔗 on [Cornell College Cluster](http://turing.cornellcollege.edu:8787/)                 |
 | Gradebook                  | 🔗 on [Moodle]({{< var course.mgradebook >}}) |
+| Minitab                    | 🔗 on [Minitab](https://app.minitab.com)                 |
 
 ## Other Useful Links
+-   [Discussion Norms](/course-materials/documents/teamcontracttemplate.docx)
 -   [Data Wrangling and Viz Interactive Tutorials](https://datasciencebox.org/02-interactive-tutorials)
 -   [RStudio Cheatsheets](https://www.rstudio.com/resources/cheatsheets/)
 -   [Introduction to dplyr](https://cran.r-project.org/web/packages/dplyr/vignettes/dplyr.html)
