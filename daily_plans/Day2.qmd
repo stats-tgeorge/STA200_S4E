@@ -8,19 +8,25 @@ description: Housing Inequity and OI 1.1 & 1.2 - Case Study and Data Basics
 
 ## Class Topics
 
-- SYS Showcase Inoformation (15-20min)
+
+- *Lead me Home*
+  - Introduction
+  - Watch Lead me Home Documentary
+  - Lead Me Home [Handout 1](/course-materials/documents/Handout_One.pdf)
+  - Lead me Home [Handout 2](/course-materials/documents/Handout_Two.pdf)
+  - Lead me Home [Folder for Readings](https://drive.google.com/drive/folders/1jlh-KrcQdtEBre07VXSJX0MkFm--cSay?usp=sharing)
+  
+- SYS Showcase Inoformation (15-20min, start at 10am)
 
 - Class discussion on Citizenship. 
 
-- OpenIntro Sections 1.1 and 1.2
+-  Maybe: OpenIntro Sections 1.1 and 1.2
 
-- *Lead me Home*
-  - Watch Lead me Home Documentary
-  - Lead me Home activity parts 1 and 2
+
   
 ## Homework
 
-Lead Me home Part 3
+Lead Me Home [Handout 3](/course-materials/documents/Handout_Three.pdf)
 
 OI exercises: 
 
