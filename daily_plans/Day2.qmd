@@ -3,7 +3,7 @@ title: "Day 2"
 format: html
 date: "26-August-2025"
 Homework Due: August 27th at 9am
-description: Housing Inequity and OI 1.1 & 1.2 - Case Study and Data Basics
+description: Homelessness
 ---
 
 ## Class Topics
@@ -13,14 +13,11 @@ description: Housing Inequity and OI 1.1 & 1.2 - Case Study and Data Basics
     -   Introduction
     -   Watch Lead me Home Documentary
     -   Lead Me Home [Handout 1](/course-materials/documents/Handout_One.pdf)
-    -   
     -   Lead me Home [Folder for Readings](https://drive.google.com/drive/folders/1jlh-KrcQdtEBre07VXSJX0MkFm--cSay?usp=sharing)
 
 -   SYS Showcase Information (15-20min, start at 10am)
 
 -   Class discussion on Citizenship.
-
--   Maybe: OpenIntro Sections 1.1 and 1.2
 
 ## Homework
 
