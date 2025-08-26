@@ -10,7 +10,7 @@ description: Disparity Trap & OI 1.1-1.3
 
 - Final Lead Me Home Class Discussion
 
-- Disparity Trap board game and activities
+- Disparity Trap board game and activities (at [THIS LINK](/course-materials/documents/Disparity_Trap_Workbook.pdf)).
 
 - OpenIntro Section 1.1 - 1.3 - Case Study, Data Basics & Sampling principals and strategies
 
