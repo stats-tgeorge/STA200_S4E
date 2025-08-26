@@ -8,26 +8,28 @@ description: Housing Inequity and OI 1.1 & 1.2 - Case Study and Data Basics
 
 ## Class Topics
 
+-   *Lead me Home*
 
-- *Lead me Home*
-  - Introduction
-  - Watch Lead me Home Documentary
-  - Lead Me Home [Handout 1](/course-materials/documents/Handout_One.pdf)
-  - Lead me Home [Handout 2](/course-materials/documents/Handout_Two.pdf)
-  - Lead me Home [Folder for Readings](https://drive.google.com/drive/folders/1jlh-KrcQdtEBre07VXSJX0MkFm--cSay?usp=sharing)
-  
-- SYS Showcase Inoformation (15-20min, start at 10am)
+    -   Introduction
+    -   Watch Lead me Home Documentary
+    -   Lead Me Home [Handout 1](/course-materials/documents/Handout_One.pdf)
+    -   
+    -   Lead me Home [Folder for Readings](https://drive.google.com/drive/folders/1jlh-KrcQdtEBre07VXSJX0MkFm--cSay?usp=sharing)
 
-- Class discussion on Citizenship. 
+-   SYS Showcase Information (15-20min, start at 10am)
 
--  Maybe: OpenIntro Sections 1.1 and 1.2
+-   Class discussion on Citizenship.
 
+-   Maybe: OpenIntro Sections 1.1 and 1.2
 
-  
 ## Homework
 
-Lead Me Home [Handout 3](/course-materials/documents/Handout_Three.pdf)
+-   Read Lead Me Home [Handout 2](/course-materials/documents/Handout_Two.pdf).
 
-OI exercises: 
+-   Complete a Round 2 reading from the folder at [THIS LINK](https://drive.google.com/drive/folders/1jlh-KrcQdtEBre07VXSJX0MkFm--cSay?usp=sharing). Then:
 
+    -   Write a summary of the reading topic that relates to, is connected to, or has perpetuated homelessness today.
 
+    -   Submit your summary at [THIS LINK](https://moodle.cornellcollege.edu/mod/assign/view.php?id=338101).
+
+-   Lead Me Home [Handout 3](/course-materials/documents/Handout_Three.pdf), but submit your questions on the "Class Discussion Questions (Due Daily)" on Moodle at [THIS LINK](https://moodle.cornellcollege.edu/mod/forum/view.php?id=337610).
