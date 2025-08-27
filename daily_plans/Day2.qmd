@@ -30,3 +30,7 @@ description: Homelessness
     -   Submit your summary at [THIS LINK](https://moodle.cornellcollege.edu/mod/assign/view.php?id=338101).
 
 -   Lead Me Home [Handout 3](/course-materials/documents/Handout_Three.pdf), but submit your questions on the "Class Discussion Questions (Due Daily)" on Moodle at [THIS LINK](https://moodle.cornellcollege.edu/mod/forum/view.php?id=337610).
+
+    -   Handout 3, link 1, [CLICK HERE](https://www.ncbi.nlm.nih.gov/books/NBK519584/)
+
+    -   Handout 3, link 2, [CLICK HERE](https://community.solutions/wp-content/uploads/2020/06/A-Brief-Timeline-of-Race-and-Homelessness-in-America-March-2019.pdf)
