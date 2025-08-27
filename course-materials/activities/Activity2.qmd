@@ -1,0 +1,44 @@
+---
+title: "Getting Started with Waypoint Data"
+format: 
+  html: default
+  docx: default
+---
+
+## Waypoint Project Description
+
+It is widely recognized that individuals exiting the judicial system often face significant barriers to stable housing, employment, and successful reintegration into society. To address these challenges, Waypoint launched the Homeless Diversion Program in partnership with the 6th Judicial District. This initiative aims to reduce the risk of homelessness and break the cycle of recidivism by connecting justice-involved individuals with housing and essential stabilizing resources.
+
+The program uses a collaborative, housing-first approach that supports reentry by securing stable housing as a foundation for rebuilding. Stable housing enables participants to pursue employment, access treatment and other support services, reconnect with family, and reduce the likelihood of reoffending—all while easing the burden on probation officers.
+
+Throughout the pilot phase, the program’s impact became especially evident, as participants encountered significant housing barriers that required intensive advocacy and relationship-building with landlords. Many of these landlords may not have otherwise considered renting to individuals with histories of manufacturing or sex offense charges, particularly those subject to residential restrictions. The program played a critical role in opening these housing opportunities and supporting long-term stability.
+
+## Questions and Tasks
+
+1.  Have a group member open the Waypoint data on their computer, connected to the group TV, in Excel (linked on [Moodle](https://moodle.cornellcollege.edu/course/view.php?id=8899)).
+
+<!-- -->
+
+a.  Ensure the data is stored in a designated folder on your computer (not Downloads) that you can easily locate and delete at the end of the class.
+
+<!-- -->
+
+2.  What does each tab (bottom) represent?
+
+**The questions below are about all tabs except the *CE Contact* Tab.**
+
+3.  What does each row represent? Use statistical terminology.
+
+4.  What does each column represent? Use statistical terminology.
+
+5.  Do all sheets have the same column names? Are the columns in the same order? Explain and identify **all** differences.
+
+6.  We want to create a single sheet that consolidates all observations. Why shouldn't we simply combine them by copying and pasting?
+
+7.  Explain how we could modify each original sheet so that when we copy them, we don't lose the information of which sheet they were from. Multiple changes are needed. **You are not making any changes yet!**
+
+**Check with your instructor!!**
+
+8.  Follow the instructions to create a new single sheet.
+
+**Class Check-In**

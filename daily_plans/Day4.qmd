@@ -3,26 +3,27 @@ title: "Day 4"
 format: html
 date: "28-August-2025"
 Homework Due: August 29th at 9am
-description: Starting Waypoint group projects, OI 1.4 - Experiments
+description: Discussion, Projects, and OI 1.1-1.4
 ---
 
 ## Class Topics
 
-- OpenIntro homework discussion
+-   Class discussion on "An Anti-Racist Approach to Data Science." (30 min)
 
-- Class discussion on "An Anti-Racist Approach to Data Science". 
+-   OpenIntro Section 1.1- 1.4 (likely not all of it)
 
-- Group project overview
+    -   Slides at [THIS LINK](/course-materials/slides/chapter1.html).
 
-- Activity 2 - Getting Started with Waypoint Data
+    -   Outline at [THIS LINK](/course-materials/slides/chapter1_o.html).
 
-- OpenIntro Section 1.4 - Experiments
+-   Group project overview (15 min)
 
+-   [Activity 2](/course-materials/activities/Activity2.qmd)- Getting Started with Waypoint Data. [Google Doc](/course-materials/activities/Activity2.docx) for working.
 
-## Homework 
+## Homework
 
-- Listen to podcast “[Why Black Women Are More Likely to Face Eviction](https://www.kqed.org/news/11905386/why-black-women-are-more-likely-to-face-eviction)” (35 minutes)
-  - Write a reflection and submit HERE. Reflection rubric HERE. 
-  - Submit a question for class discussion HERE.
-  
-- OI exercises: 1.14, 1.16, 1.20,1.24,1.25,1.30,1.38,1.40.
+-   Listen to the podcast “[Why Black Women Are More Likely to Face Eviction](https://www.kqed.org/news/11905386/why-black-women-are-more-likely-to-face-eviction)” (35 minutes)
+    -   Write a reflection and submit at [THIS LINK](https://moodle.cornellcollege.edu/mod/assign/view.php?id=338104). The reflection rubric can be seen at [THIS LINK](/course-materials/documents/reflectionrubric.qmd).
+
+    -   Submit a question for class discussion [HERE](https://moodle.cornellcollege.edu/mod/forum/view.php?id=337610).
+-   OI exercises: (start on page 11) 1.1, 1.2, 1.4, 1.8, 1.10, 1.12. Book available at [THIS LINK](https://leanpub.com/os). Submit in person.
