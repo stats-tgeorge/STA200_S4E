@@ -1,0 +1,555 @@
+---
+title: "OpenIntro Statistics: Chapter 1"
+format: 
+  revealjs:
+    output-file: "ch1.html"
+  html:
+    output-file: "ch1_o.html"
+logo: "/images/logo.png"
+---
+
+
+# Case study
+
+## Treating Chronic Fatigue Syndrome 
+
+- Objective: Evaluate the effectiveness of cognitive-behavior therapy for chronic fatigue syndrome.
+- Participant pool: 142 patients recruited from referrals by primary care physicians and consultants to a hospital clinic specializing in chronic fatigue syndrome.
+- Actual participants: Only 60 of the 142 referred patients entered the study. Some were excluded because they didn't meet the diagnostic criteria, some had other health issues, and some refused to be a part of the study.
+
+::: aside
+Deale et al. *Cognitive behavior therapy for chronic fatigue syndrome: A randomized controlled trial*. *The American Journal of Psychiatry* 154(3), 1997.
+:::
+
+## Study design
+
+- Patients randomly assigned to treatment and control groups, 30 patients in each group:
+  - **Treatment**: Cognitive behavior therapy — collaborative, educative, and with a behavioral emphasis. Patients were shown how activity could be increased steadily and safely without exacerbating symptoms.
+  - **Control**: Relaxation — No advice was given about how activity could be increased. Instead, progressive muscle relaxation, visualization, and rapid relaxation skills were taught.
+
+
+## Results
+
+The table below shows the distribution of patients with good outcomes at 6-month follow-up. Note that 7 patients dropped out of the study: 3 from the treatment and 4 from the control group.
+
+| Group      | Yes | No | Total |
+|------------|----:|---:|------:|
+| Treatment  |  19 |  8 |    27 |
+| Control    |   5 | 21 |    26 |
+| **Total**  |  24 | 29 |    53 |
+
+- **Proportion with good outcomes in treatment group:**   
+  $$ \tfrac{19}{27} \approx 0.70 \;\rightarrow\; 70\% $$ 
+
+- **Proportion with good outcomes in control group:**   
+  $$ \tfrac{5}{26} \approx 0.19 \;\rightarrow\; 19\% $$ 
+
+
+
+## Understanding the results
+
+::: {.callout-question}
+Do the data show a “real” difference between the groups?
+:::
+
+- Suppose you flip a coin 100 times. While the chance a coin lands heads in any given flip is 50%, we probably won't observe exactly 50 heads. This type of fluctuation is part of almost any data-generating process. 
+- The observed difference between the two groups (70 − 19 = 51%) may be real, or may be due to natural variation. 
+- Since the difference is quite large, it is more believable that the difference is real. 
+- We need statistical tools to determine if the difference is so large that we should reject the notion that it was due to chance. 
+
+
+
+
+## Generalizing the results
+
+::: {.callout-question}
+Are the results of this study generalizable to all patients with chronic fatigue syndrome?
+:::
+
+These patients had specific characteristics and volunteered to be a part of this study, therefore they may not be representative of all patients with chronic fatigue syndrome. While we cannot immediately generalize the results to all patients, this first study is encouraging. The method works for patients with some narrow set of characteristics, and that gives hope that it will work, at least to some degree, with other patients. 
+
+
+
+# Data basics
+
+## Classroom survey
+
+A survey was conducted on students in an introductory statistics course. Below are a few of the questions on the survey, and the corresponding variables the data from the responses were stored in:
+
+- `gender`: What is your gender? 
+- `intro_extra`: Do you consider yourself introverted or extraverted? 
+- `sleep`: How many hours do you sleep at night, on average?
+- `bedtime`: What time do you usually go to bed?
+- `countries`: How many countries have you visited?
+- `dread`: On a scale of 1-5, how much do you dread being here?
+
+## Data matrix
+
+Data collected on students in a statistics class on a variety of variables:
+
+| Stu. | gender | intro_extra | … | dread |
+|------|--------|-------------|---|-------|
+| 1    | male   | extravert   | … | 3     |
+| 2    | female | extravert   | … | 2     |
+| 3    | female | introvert   | … | 4 ⟵ observation |
+| 4    | female | extravert   | … | 2     |
+| ⋮    | ⋮      | ⋮           | ⋮ | ⋮     |
+| 86   | male   | extravert   | … | 3     |
+
+Variables ->  
+
+Observations ↓
+
+## Types of variables
+
+![](figures/variables/variables.png){width=90%}
+
+## Types of variables (cont.) {.smaller}
+
+|   | gender | sleep | bedtime | countries | dread |
+|---|--------|-------|---------|-----------|-------|
+| 1 | male   | 5     | 12–2    | 13        | 3     |
+| 2 | female | 7     | 10–12   | 7         | 2     |
+| 3 | female | 5.5   | 12–2    | 1         | 4     |
+| 4 | female | 7     | 12–2    |           | 2     |
+| 5 | female | 3     | 12–2    | 1         | 3     |
+| 6 | female | 3     | 12–2    | 9         | 4     |
+
+- `gender`:
+
+. . .
+
+::: {.callout-tip}
+#### Solution
+categorical
+:::
+
+- `sleep`:
+
+. . .
+
+::: {.callout-tip} 
+#### Solution
+numerical, continuous
+:::
+
+
+
+
+## Types of variables (cont.) {.smaller}
+
+|   | gender | sleep | bedtime | countries | dread |
+|---|--------|-------|---------|-----------|-------|
+| 1 | male   | 5     | 12–2    | 13        | 3     |
+| 2 | female | 7     | 10–12   | 7         | 2     |
+| 3 | female | 5.5   | 12–2    | 1         | 4     |
+| 4 | female | 7     | 12–2    |           | 2     |
+| 5 | female | 3     | 12–2    | 1         | 3     |
+| 6 | female | 3     | 12–2    | 9         | 4     |
+
+
+
+- `bedtime`:
+
+. . .
+
+::: {.callout-tip} 
+#### Solution
+categorical, ordinal
+:::
+
+- `countries`:
+
+. . .
+
+::: {.callout-tip} 
+#### Solution
+numerical, discrete
+
+:::
+
+- `dread`:
+
+. . .
+
+::: {.callout-tip} 
+#### Solution
+categorical, ordinal — could also be used as numerical
+:::
+
+## Practice
+
+::: {.callout-note}
+#### Practice question
+What type of variable is a telephone area code?
+:::
+
+a. numerical, continuous  
+b. numerical, discrete  
+c. categorical (correct) 
+d. categorical, ordinal
+
+. . .
+
+::: {.callout-note}
+#### Answer
+c. categorical
+:::
+
+
+## Relationships among variables
+
+::: {.callout-note}
+#### Question
+Does there appear to be a relationship between GPA and number of hours students study per week?
+:::
+
+
+
+![](figures/gpa_study_hours/gpa_study_hours.png){width=70%}
+
+::: {.callout-note} 
+#### Question
+Can you spot anything unusual about any of the data points?
+:::
+
+. . .
+
+::: {.callout-tip} 
+#### Solution
+There is one student with GPA > 4.0 — this is likely a data error.
+:::
+
+## Explanatory and response variables
+
+- To identify the explanatory variable in a pair of variables, identify which of the two is suspected of affecting the other:
+
+  explanatory variable → response variable
+
+- Labeling variables as explanatory and response does not guarantee the relationship between the two is actually causal, even if there is an association identified between the two variables. We use these labels only to keep track of which variable we suspect affects the other.
+
+## Two primary types of data collection
+
+- **Observational studies:** Collect data in a way that does not directly interfere with how the data arise (e.g. surveys).
+  - Can provide evidence of a naturally occurring association between variables, but they cannot by themselves show a causal connection.
+
+- **Experiment:**  Researchers randomly assign subjects to various treatments in order to establish causal connections between the explanatory and response variables.
+
+## Association vs. causation
+
+- When two variables show some connection with one another, they are called **associated** variables.
+  - Associated variables can also be called **dependent** variables and vice-versa.
+- If two variables are not associated, i.e. there is no evident connection between the two, then they are said to be **independent**.
+- In general, association does not imply causation, and causation can only be inferred from a randomized experiment.
+
+![](figures/xkcd_correlation.png){width=55%}
+
+. . .
+
+[xkcd 552](http://xkcd.com/552/)
+
+## Practice
+
+::: {.columns}
+::: {.column}
+::: {.callout-note}
+#### Practice question
+Based on the scatterplot on the right, which of the following statements is correct about the head and skull lengths of possums?
+:::
+:::
+::: {.column}
+![](figures/possum_head_skull/possum_head_skull.png)
+:::
+:::
+
+a. There is no relationship between head length and skull width, i.e. the variables are independent.  
+**b. Head length and skull width are positively associated. (correct)**  
+c. Skull width and head length are negatively associated.  
+d. A longer head causes the skull to be wider.  
+e. A wider skull causes the head to be longer.
+
+
+# Sampling principles and strategies
+
+## Populations and samples
+
+::: {.columns}
+
+::: {.column}
+
+![](figures/running.png)
+
+[NYT Well Blog](http://well.blogs.nytimes.com/2012/08/29/finding-your-ideal-running-form)
+:::
+
+::: {.column}
+
+**Research question:** Can people become better, more efficient runners on their own, merely by running? 
+
+. . .
+
+**Population of interest:**  
+
+::: {.callout-tip} 
+All people
+:::
+
+**Sample:**  Group of adult women who recently joined a running group  
+
+**Population to which results can be generalized:**  
+
+::: {.callout-tip}
+Adult women, if the data are randomly sampled
+:::
+
+:::
+
+:::
+
+## Anecdotal evidence and early smoking research
+
+- Anti-smoking research started in the 1930s and 1940s when cigarette smoking became increasingly popular. While some smokers seemed to be sensitive to cigarette smoke, others were completely unaffected.
+- Anti-smoking research was faced with resistance based on **anecdotal evidence** such as:  
+  *“My uncle smokes three packs a day and he's in perfectly good health.”*  
+  This evidence was based on a limited sample size that might not be representative.
+- It was concluded that “smoking is a complex human behavior, by its nature difficult to study, confounded by human variability.”
+- In time researchers were able to examine larger samples of cases, and trends showing smoking’s negative health impacts became much clearer.
+
+::: aside
+Brandt, *The Cigarette Century* (2009), Basic Books.
+:::
+
+## Census
+
+- Wouldn't it be better to just include everyone and *sample* the entire population?  
+  - This is called a **census**.
+
+- There are problems with taking a census:   
+  - It can be difficult to complete — some individuals are hard to locate or measure, and these people may differ from the rest.  
+  - Populations rarely stand still — they change constantly, so it’s never possible to get a perfect measure.  
+  - Taking a census may be more complex than sampling.
+
+
+
+
+## Census example
+
+![](figures/census_illegal_immig.png){width=90%}
+
+<small>[NPR story](http://www.npr.org/templates/story/story.php?storyId=125380052)</small>
+
+## Exploratory analysis to inference
+
+- Sampling is natural.   
+- Think about sampling something you are cooking: you taste a small part to get an idea about the whole.   
+- When you taste a spoonful and decide it isn’t salty enough, that’s **exploratory analysis**.   
+- If you generalize and conclude that your entire soup needs salt, that’s an **inference**.   
+- For your inference to be valid, the spoonful (sample) needs to be **representative** of the entire pot (population).   
+  - If you only sample the surface while salt is at the bottom, it’s not representative.  
+  - If you stir first, your spoonful is more likely representative.
+
+## Sampling bias
+
+- **Non-response:** If only a small fraction of the randomly sampled people respond, the sample may not be representative. 
+
+- **Voluntary response:** When people with strong opinions self-select into the sample, it’s not representative. 
+
+![](figures/vol_resp_bias/vol_resp_bias_q.png){width=25%} 
+![](figures/vol_resp_bias/vol_resp_bias_res.png){width=25%}   
+
+<small>cnn.com, Jan 14, 2012</small>
+
+- **Convenience sample:** Easily accessible individuals are more likely included. 
+
+## Sampling bias example: Landon vs. FDR
+
+::: {.columns}
+::: {.column}
+![](figures/landon_fdr/landon.png)
+:::
+::: {.column}
+In 1936, Landon sought the Republican presidential nomination opposing FDR’s re-election.
+:::
+::: {.column}
+![](figures/landon_fdr/fdr.png)
+:::
+:::
+
+## The Literary Digest Poll
+
+::: {.columns}
+::: {.column}
+- The Literary Digest polled ~10 million Americans, got 2.4 million responses.
+- The poll predicted Landon would win; FDR only 43%.
+- Actual result: FDR won with 62%.
+:::
+::: {.column}
+![](figures/literaryDigest.png)
+:::
+:::
+
+- The magazine was discredited because of the poll and soon discontinued.
+
+## The Literary Digest Poll — what went wrong?
+
+- The magazine had surveyed:
+  - Its own readers
+  - Registered automobile owners
+  - Registered telephone users
+- These groups had above-average incomes (Great Depression era) → much more likely Republican.  
+- Thus, the sample was **not representative** of the American population.
+
+
+## Large samples are preferable, but…
+
+- The Literary Digest poll had a sample of 2.4 million — huge — but it was **biased**, so the prediction was wrong.
+- Soup analogy:  
+  - If the soup isn’t stirred, it doesn’t matter how large your spoon is, the taste isn’t representative.  
+  - If stirred, even a small spoon suffices.
+
+## Practice
+
+::: {.callout-note}
+A school district is considering banning high school student parking after two accidents. Parents are surveyed by mail. Of 6,000 surveys, 1,200 returned: 960 agree, 240 disagree. Which statements are true?
+:::
+
+I. Some mailings may never have reached parents.  
+II. The district has strong support from parents to move forward.  
+III. It’s possible a majority of parents disagree.  
+IV. Results are unlikely to be biased because all parents were mailed.  
+
+**Answer choices:**  
+a. Only I  
+b. I and II  
+✅ c. I and III  
+d. III and IV  
+e. Only IV
+
+## Observational studies
+
+- Researchers collect data without interfering with how data arise.  
+- Results can show association between explanatory and response variables.
+
+## Obtaining good samples
+
+- Almost all statistical methods assume randomness.  
+- If observational data are not collected randomly, estimates and errors are unreliable.  
+- Common random sampling techniques: **simple**, **stratified**, **cluster**.
+
+
+## Simple random sample
+
+Randomly select cases from the population, with no implied connection between selected points.
+
+![](figures/sampling_methods/simple.png){width=90%}
+
+## Stratified sample
+
+**Strata** = groups of similar observations. Take a simple random sample from each stratum.
+
+![](figures/sampling_methods/stratified.png){width=90%}
+
+## Cluster sample
+
+**Clusters** are usually heterogeneous. Randomly sample clusters, then include **all** observations in them. Often chosen for cost reasons.
+
+![](figures/sampling_methods/cluster.png){width=90%}
+
+## Multistage sample
+
+**Clusters** sampled first, then take a simple random sample **within** those clusters.
+
+![](figures/sampling_methods/multistage.png){width=90%}
+
+## Practice
+
+::: {.callout-note}
+A city council requests a household survey in a suburban area with varied neighborhoods. Which approach would be *least effective*?
+:::
+
+a. Simple random sampling  
+✅ b. Cluster sampling  
+c. Stratified sampling  
+d. Blocked sampling
+
+
+# Experiments
+
+## Principles of experimental design
+
+1. **Control:** Control for the (potential) effect of variables other than the ones directly being studied.
+2. **Randomize:** Randomly assign subjects to treatments, and randomly sample from the population whenever possible.
+3. **Replicate:** Within a study, replicate by collecting a sufficiently large sample. Or replicate the entire study.
+4. **Block:** If there are variables known or suspected to affect the response variable, first group subjects into **blocks** based on these variables, and then randomize cases within each block.
+
+
+## More on blocking
+
+::: {.columns}
+::: {.column}
+![](figures/gu.png)
+:::
+::: {.column}
+- We would like to design an experiment to investigate if energy gels make you run faster:
+
+  - Treatment: energy gel 
+  - Control: no energy gel 
+
+- It is suspected that gels might affect pros and amateurs differently, so we **block** for pro status: 
+  - Divide sample into pro and amateur 
+  - Randomly assign pros to treatment/control 
+  - Randomly assign amateurs to treatment/control 
+  - Pro/amateur status equally represented in groups 
+
+:::
+:::
+
+::: {.callout-question} 
+Why is this important? Can you think of other variables to block for?
+:::
+
+## Practice
+
+::: {.callout-note}
+A study tests the effect of light level and noise level on exam performance. The researcher suspects gender might moderate effects and wants equal gender representation in each group. Which is correct?
+:::
+
+a. 3 explanatory variables (light, noise, gender) and 1 response variable (exam performance)  
+✅ b. 2 explanatory variables (light and noise), 1 blocking variable (gender), and 1 response variable (exam performance)  
+c. 1 explanatory variable (gender) and 3 response variables (light, noise, exam performance)  
+d. 2 blocking variables (light, noise), 1 explanatory variable (gender), and 1 response variable (exam performance)
+
+## Difference between blocking and explanatory variables
+
+- **Factors** are conditions we can impose on the experimental units.
+- **Blocking variables** are characteristics units come with, that we want to control for.
+- Blocking is like stratifying, but used when **assigning** in experiments, not when **sampling**.
+
+## More experimental design terminology
+
+- **Placebo:** fake treatment, often used as the control group in medical studies
+- **Placebo effect:** improvement simply because subjects believe they are receiving a treatment
+- **Blinding:** experimental units don’t know whether they are in treatment or control
+- **Double-blind:** both participants *and* researchers interacting with them don’t know group assignment
+
+## Practice
+
+::: {.callout-note}
+What is the main difference between observational studies and experiments?
+:::
+
+a. Experiments take place in a lab while observational studies do not.  
+b. In an observational study we only look at past outcomes.  
+✅ c. Most experiments use random assignment while observational studies do not.  
+d. Observational studies are completely useless since no causal inference can be made.
+
+
+## Random assignment vs. random sampling
+
+![](figures/random_sample_assignment.png){width=100%}
+
+
+
+
+
+
