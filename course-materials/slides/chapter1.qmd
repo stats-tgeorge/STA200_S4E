@@ -286,21 +286,34 @@ e. A wider skull causes the head to be longer.
 
 **Research question:** Can people become better, more efficient runners on their own, merely by running? 
 
-. . .
+
 
 **Population of interest:**  
 
+::: {.fragment}
+
 ::: {.callout-tip} 
+#### Answer
 All people
 :::
 
+:::
+
+::: {.fragment}
 **Sample:**  Group of adult women who recently joined a running group  
+:::
 
+::: {.fragment}
 **Population to which results can be generalized:**  
+:::
 
+::: {.fragment}
 ::: {.callout-tip}
+#### Answer
 Adult women, if the data are randomly sampled
 :::
+:::
+
 
 :::
 
@@ -421,9 +434,16 @@ IV. Results are unlikely to be biased because all parents were mailed.
 **Answer choices:**  
 a. Only I  
 b. I and II  
-✅ c. I and III  
+c. I and III  
 d. III and IV  
 e. Only IV
+
+
+:::{.callout-note}
+#### Answer
+c. I and III
+
+:::
 
 ## Observational studies
 
@@ -468,10 +488,14 @@ A city council requests a household survey in a suburban area with varied neighb
 :::
 
 a. Simple random sampling  
-✅ b. Cluster sampling  
+b. Cluster sampling  
 c. Stratified sampling  
 d. Blocked sampling
 
+:::{.callout-note}
+#### Answer
+b. Cluster sampling 
+:::
 
 # Experiments
 
@@ -515,9 +539,14 @@ A study tests the effect of light level and noise level on exam performance. The
 :::
 
 a. 3 explanatory variables (light, noise, gender) and 1 response variable (exam performance)  
-✅ b. 2 explanatory variables (light and noise), 1 blocking variable (gender), and 1 response variable (exam performance)  
+b. 2 explanatory variables (light and noise), 1 blocking variable (gender), and 1 response variable (exam performance)  
 c. 1 explanatory variable (gender) and 3 response variables (light, noise, exam performance)  
 d. 2 blocking variables (light, noise), 1 explanatory variable (gender), and 1 response variable (exam performance)
+
+:::{.callout-note}
+#### Answer
+b. 2 explanatory variables (light and noise), 1 blocking variable (gender), and 1 response variable (exam performance)  
+:::
 
 ## Difference between blocking and explanatory variables
 
@@ -540,8 +569,14 @@ What is the main difference between observational studies and experiments?
 
 a. Experiments take place in a lab while observational studies do not.  
 b. In an observational study we only look at past outcomes.  
-✅ c. Most experiments use random assignment while observational studies do not.  
+c. Most experiments use random assignment while observational studies do not.  
 d. Observational studies are completely useless since no causal inference can be made.
+
+
+:::{.callout-note}
+#### Answer
+c. Most experiments use random assignment while observational studies do not.  
+:::
 
 
 ## Random assignment vs. random sampling
