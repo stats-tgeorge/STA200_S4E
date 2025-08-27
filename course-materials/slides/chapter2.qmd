@@ -1,0 +1,497 @@
+---
+title: "OpenIntro Statistics: Chapter 2"
+format: 
+  revealjs:
+    output-file: "chapter2.html"
+  html:
+    output-file: "chapter2_o.html"
+logo: "/images/logo.png"
+---
+
+
+## Scatterplot
+
+**Scatterplots** are useful for visualizing the relationship between two numerical variables.
+
+::: {.columns}
+
+::: {.columm}
+
+**Do life expectancy and total fertility appear to be *associated* or *independent*?**
+
+::: {.fragment}
+They appear to be linearly and negatively associated: as fertility increases, life expectancy decreases.
+:::
+
+**Was the relationship the same throughout the years, or did it change?**
+
+::: {.fragment}
+The relationship changed over the years.
+:::
+
+:::
+
+::: {.column}
+![Scatterplot](figures/life_exp_child.png)
+
+<http://www.gapminder.org/world>
+
+:::
+
+:::
+
+
+## Dot plots and the mean
+
+## Dot plots
+
+Useful for visualizing one numerical variable. Darker colors represent areas where there are more observations.
+
+![Dot plot of GPA](figures/gpa_dot_plot/gpa_dot_plot.pdf)
+
+**How would you describe the distribution of GPAs in this data set?**\
+Make sure to say something about the center, shape, and spread of the distribution.
+
+## Dot plots & mean
+
+![Dot plot with mean GPA](/figures/gpa_dot_plot/gpa_dot_plot_mean.pdf)
+
+-   The **mean**, also called the **average** (marked with a triangle in the above plot), is one way to measure the center of a **distribution** of data.\
+-   The mean GPA is 3.59.
+
+## Mean
+
+-   The **sample mean**, denoted as $\bar{x}$, can be calculated as:
+
+    $$
+    \bar{x} = \frac{x_1 + x_2 + \cdots + x_n}{n}
+    $$
+
+    where $x_1, x_2, \cdots, x_n$ represent the **n** observed values.
+
+-   The **population mean** is also computed the same way but is denoted as $\mu$. It is often not possible to calculate $\mu$ since population data are rarely available.
+
+-   The sample mean is a **sample statistic**, and serves as a **point estimate** of the population mean. This estimate may not be perfect, but if the sample is good (representative of the population), it is usually a pretty good estimate.
+
+## Stacked dot plot
+
+Higher bars represent areas where there are more observations, making it a little easier to judge the center and the shape of the distribution.
+
+![Stacked dot plot of GPA](figures/gpa_dot_plot/gpa_dot_plot_stacked.png)
+
+# Histograms and Shape
+
+## Histograms – Extracurricular hours
+
+-   Histograms provide a view of the **data density**. Higher bars represent where the data are relatively more common.\
+-   Histograms are especially convenient for describing the **shape** of the data distribution.\
+-   The chosen **bin width** can alter the story the histogram is telling.
+
+![Histogram of extracurricular hours](figures/extracurr_hrs_hist/extracurr_hrs_hist.png)
+
+## Bin width
+
+**Which one(s) of these histograms are useful? Which reveal too much about the data? Which hide too much?**
+
+::::: columns
+::: column
+![Histogram 1](figures/extracurr_hrs_hist/extracurr_hrs_hist2.png)
+
+![Histogram 3](figures/extracurr_hrs_hist/extracurr_hrs_hist20.png)
+:::
+
+::: column
+![Histogram 2](figures/extracurr_hrs_hist/extracurr_hrs_hist)
+
+![Histogram 4](figures/extracurr_hrs_hist/extracurr_hrs_hist30)
+:::
+:::::
+
+## Shape of a distribution: modality
+
+Does the histogram have a single prominent peak (**unimodal**), several prominent peaks (**bimodal/multimodal**), or no apparent peaks (**uniform**)?
+
+![Modality examples](figures/singleBiMultiModalUnifPlots/singleBiMultiModalUnifPlots.png)
+
+
+In order to determine modality, step back and imagine a smooth curve over the histogram — imagine that the bars are wooden blocks and you drop a limp spaghetti over them. The shape the spaghetti would take could be viewed as a smooth curve.
+
+## Shape of a distribution: skewness
+
+Is the histogram **right skewed**, **left skewed**, or **symmetric**?
+
+![Skewness examples](figures/skewedSymPlots/skewedSymPlots.png)
+
+
+Histograms are said to be skewed to the side of the long tail.
+
+## Shape of a distribution: unusual observations
+
+Are there any unusual observations or potential **outliers**?
+
+![Outlier examples](figures/outlierPlots/outlierPlots.png)
+
+## Extracurricular activities
+
+**How would you describe the shape of the distribution of hours per week students spend on extracurricular activities?**
+
+![Histogram of extracurricular hours](figures/extracurr_hrs_hist/extracurr_hrs_hist.png)
+
+Unimodal and right skewed, with a potentially unusual observation at 60 hours/week.
+
+## Commonly observed shapes of distributions
+
+
+::::::: columns
+::: column
+unimodal\
+![](figures/shape_sketches/unimodal.png)
+:::
+
+::: column
+bimodal\
+![](figures/shape_sketches/bimodal.png)
+:::
+
+::: column
+multimodal\
+![](figures/shape_sketches/multimodal.png)
+:::
+
+::: column
+uniform\
+![](figures/shape_sketches/uniform.png)
+:::
+:::::::
+
+. . .
+
+-   skewness\
+    . . .
+
+:::::: columns
+::: column
+right skew\
+![](figures/shape_sketches/right_skew.png)
+:::
+
+::: column
+left skew\
+![](figures/shape_sketches/left_skew.png)
+:::
+
+::: column
+symmetric\
+![](figures/shape_sketches/symmetric.png)
+:::
+::::::
+
+## Practice
+
+**Which of these variables do you expect to be uniformly distributed?**
+
+1.  weights of adult females\
+2.  salaries of a random sample of people from North Carolina\
+3.  house prices\
+4.  birthdays of classmates (day of the month)
+
+::: {.fragment}
+**Answer:** birthdays of classmates
+:::
+
+## Application activity: Shapes of distributions
+
+**Sketch the expected distributions of the following variables:**
+
+-   number of piercings\
+-   scores on an exam\
+-   IQ scores
+
+Come up with a concise way (1-2 sentences) to teach someone how to determine the expected distribution of any variable.
+
+## Are you typical?
+
+![Typical distribution](figures/typical.png)
+
+<http://www.youtube.com/watch?v=4B2xOvKFFz4>
+
+. . .
+
+**How useful are centers alone for conveying the true characteristics of a distribution?**
+
+## Variance and standard deviation
+
+## Variance
+
+**Variance** is roughly the average squared deviation from the mean.
+
+$$
+s^2 = \frac{\sum_{i = 1}^n (x_i - \bar{x})^2}{n - 1}
+$$
+
+. . .
+
+::::: columns
+::: column
+-   The sample mean is $\bar{x} = 6.71$, and the sample size is $n = 217$.\
+    . . .\
+-   The variance of amount of sleep students get per night can be calculated as:
+:::
+
+::: column
+![Histogram of sleep hours](figures/sleep_hist/sleep_hist.png)
+:::
+:::::
+
+. . .
+
+$$
+s^2 = \frac{(5 - 6.71)^2 + (9 - 6.71)^2 + \cdots + (7 - 6.71)^2}{217 - 1} = 4.11~hours^2
+$$
+
+## Variance (cont.)
+
+**Why do we use the squared deviation in the calculation of variance?**
+
+. . .
+
+-   To get rid of negatives so that observations equally distant from the mean are weighed equally.\
+-   To weigh larger deviations more heavily.
+
+## Standard deviation
+
+The **standard deviation** is the square root of the variance, and has the same units as the data.
+
+$$
+s = \sqrt{s^2}
+$$
+
+. . .
+
+::::: columns
+::: column
+-   The standard deviation of amount of sleep students get per night can be calculated as:\
+    $$
+    s = \sqrt{4.11} = 2.03~\text{hours}
+    $$\
+    
+-   We can see that all of the data are within 3 standard deviations of the mean.
+:::
+
+::: column
+![Histogram of sleep hours](figures/sleep_hist/sleep_hist.png)
+:::
+:::::
+
+
+## Box plots, quartiles, and the median
+
+## Median
+
+-   The **median** is the value that splits the data in half when ordered in ascending order.
+
+    $$0, 1, \textbf{2}, 3, 4$$
+
+-   If there are an even number of observations, then the median is the average of the two values in the middle.
+
+    $$0, 1, \underline{2, 3}, 4, 5 \rightarrow \frac{2 + 3}{2} = \textbf{2.5}$$
+
+-   Since the median is the midpoint of the data, 50% of the values are below it. Hence, it is also the $50^{th}$ percentile.
+
+## Q1, Q3, and IQR
+
+-   The $25^{th}$ percentile is also called the first quartile, **Q1**.
+
+-   The $50^{th}$ percentile is also called the median.
+
+-   The $75^{th}$ percentile is also called the third quartile, **Q3**.
+
+-   Between Q1 and Q3 is the middle 50% of the data. The range these data span is called the **interquartile range**, or the **IQR**.
+
+:::{.fragment}
+$$
+IQR = Q3 - Q1
+$$
+:::
+
+## Box plot
+
+The box in a **box plot** represents the middle 50% of the data, and the thick line in the box is the median.
+
+![Box plot of study hours](figures/study_hours/study_hours_box.png){width="70%"}
+
+## Anatomy of a box plot
+
+![Box plot anatomy](figures/study_hours/study_hours_box_layout.png){width="95%"}
+
+## Whiskers and outliers
+
+-   **Whiskers** of a box plot can extend up to $1.5 \times IQR$ away from the quartiles.
+
+$$
+\begin{aligned}
+\text{max upper whisker reach} &= Q3 + 1.5 \times IQR \\
+\text{max lower whisker reach} &= Q1 - 1.5 \times IQR
+\end{aligned}
+$$
+
+. . .
+
+ 
+$$
+\begin{aligned}
+\text{IQR} &= 20 - 10 = 10 \\
+\text{max upper whisker reach} &= 20 + 1.5 \times 10 = 35 \\
+\text{max lower whisker reach} &= 10 - 1.5 \times 10 = -5
+\end{aligned}
+$$ 
+
+. . .
+
+-   A potential **outlier** is defined as an observation beyond the maximum reach of the whiskers. It is an observation that appears extreme relative to the rest of the data.
+
+## Outliers (cont.)
+
+**Question:** Why is it important to look for outliers?
+
+. . .
+
+-   Identify extreme skew in the distribution.
+
+-   Identify data collection and entry errors.
+
+-   Provide insight into interesting features of the data.
+
+## Robust statistics
+
+## Extreme observations
+
+**Question:** How would sample statistics such as mean, median, SD, and IQR of household income be affected if the largest value was replaced with \$10 million? What if the smallest value was replaced with \$10 million?
+
+![Household income dot plot](figures/house_income/house_income_dot_stacked.png){width="100%"}
+
+## Robust statistics
+
+![Household income dot plot](figures/house_income/house_income_dot_stacked.png){width="100%"}
+
+<small>
+
+| scenario                      |     | **robust** |      |     | **not robust** |      |
+|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
+|                               |     | median     | IQR  |     | $\bar{x}$      | $s$  |
+| original data                 |     | 190K       | 200K |     | 245K           | 226K |
+| move largest to \$10 million  |     | 190K       | 200K |     | 309K           | 853K |
+| move smallest to \$10 million |     | 200K       | 200K |     | 316K           | 854K |
+
+</small>
+
+## Robust statistics
+
+Median and IQR are more robust to skewness and outliers than mean and SD. Therefore,
+
+-   for skewed distributions it is often more helpful to use median and IQR to describe the center and spread
+
+. . .
+
+-   for symmetric distributions it is often more helpful to use the mean and SD to describe the center and spread
+
+. . .
+
+**Question:** If you would like to estimate the typical household income for a student, would you be more interested in the mean or median income?
+
+. . .
+
+**Answer:** Median
+
+## Mean vs. median
+
+-   If the distribution is symmetric, center is often defined as the mean: mean ≈ median
+
+    ![Symmetric distribution](figures/mean_med/sym.png){width="33%"}
+
+-   If the distribution is skewed or has extreme outliers, center is often defined as the median
+
+    -   Right-skewed: mean \> median\
+    -   Left-skewed: mean \< median
+
+::: {style="display: flex; justify-content: center;"}
+<img src="/figures/mean_med/rs" width="33%"/> <img src="/figures/mean_med/ls" width="33%"/>
+:::
+
+## Practice
+
+**Which is most likely true for the distribution of percentage of time actually spent taking notes in class versus on Facebook, Twitter, etc.?**
+
+. . .
+
+:::::: {style="display: flex;"}
+::: {style="flex: 0 0 70%;"}
+![Notes Percentage Histogram](figures/notes_perc/notes_perc_hist.png){width="90%"}
+:::
+
+:::: {style="flex: 0 0 30%; padding-left: 1em;"}
+::: {.fragment .fade-in}
+**Median:** 80%\
+**Mean:** 76%
+:::
+::::
+::::::
+
+1.  mean \> median\
+2.  mean \< median\
+3.  mean ≈ median\
+4.  impossible to tell
+
+<!-- To reveal the correct answer incrementally, use fragment classes -->
+
+::: {.fragment .fade-in}
+**Answer:** mean \< median
+:::
+
+## Transforming data
+
+## Extremely skewed data
+
+When data are extremely skewed, transforming them might make modeling easier. A common transformation is the **log transformation**.
+
+. . .
+
+The histograms on the left show the distribution of number of basketball games attended by students. The histogram on the right shows the distribution of log of number of games attended.
+
+::: {style="display: flex; justify-content: center;"}
+<img src="/figures/basket_games/basket_games_hist" width="50%"/> <img src="/figures/basket_games/basket_games_hist_log" width="50%"/>
+:::
+
+## Pros and cons of transformations
+
+-   Skewed data are easier to model with when they are transformed because outliers tend to become far less prominent after an appropriate transformation.
+
+    <br>
+
+    | \# of games     | 70   | 50   | 25   | ⋯   |
+    |-----------------|------|------|------|-----|
+    | log(# of games) | 4.25 | 3.91 | 3.22 | ⋯   |
+
+    <br>
+
+-   However, results of an analysis in log units of the measured variable might be difficult to interpret.
+
+. . .
+
+> **Q:** What other variables would you expect to be extremely skewed?
+
+. . .
+
+> **A:** Salary, housing prices, etc.
+
+## Mapping data
+
+## Intensity maps
+
+> **Q:** What patterns are apparent in the change in population between 2000 and 2010?
+
+<center>![](figures/change_in_pop_intensity.png){width="95%"}</center>
+
+
+> [Source](http://projects.nytimes.com/census/2010/map)
+::::::::::::::::::::::::::::::::
