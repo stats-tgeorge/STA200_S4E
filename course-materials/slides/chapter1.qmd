@@ -2,9 +2,9 @@
 title: "OpenIntro Statistics: Chapter 1"
 format: 
   revealjs:
-    output-file: "ch1.html"
+    output-file: "chapter1.html"
   html:
-    output-file: "ch1_o.html"
+    output-file: "chapter1_o.html"
 logo: "/images/logo.png"
 ---
 
