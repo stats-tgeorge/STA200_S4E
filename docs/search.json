@@ -190,7 +190,7 @@
     "href": "course-materials/slides/chapter1.html#practice",
     "title": "OpenIntro Statistics: Chapter 1",
     "section": "Practice",
-    "text": "Practice\n\n\n\n\n\n\nPractice question\n\n\nWhat type of variable is a telephone area code?\n\n\n\n\nnumerical, continuous\n\nnumerical, discrete\n\ncategorical (correct)\ncategorical, ordinal\n\n\n\n\n\n\n\n\nAnswer\n\n\n\ncategorical"
+    "text": "Practice\n\n\n\n\n\n\nPractice question\n\n\nWhat type of variable is a telephone area code?\n\n\n\n\nnumerical, continuous\n\nnumerical, discrete\n\ncategorical\ncategorical, ordinal\n\n\n\n\n\n\n\n\nAnswer\n\n\n\ncategorical"
   },
   {
     "objectID": "course-materials/slides/chapter1.html#relationships-among-variables",
@@ -225,7 +225,7 @@
     "href": "course-materials/slides/chapter1.html#practice-1",
     "title": "OpenIntro Statistics: Chapter 1",
     "section": "Practice",
-    "text": "Practice\n\n\n\n\n\n\n\n\nPractice question\n\n\nBased on the scatterplot on the right, which of the following statements is correct about the head and skull lengths of possums?\n\n\n\n\n\n\n\nThere is no relationship between head length and skull width, i.e. the variables are independent.\nb. Head length and skull width are positively associated. (correct)\n\nSkull width and head length are negatively associated.\n\nA longer head causes the skull to be wider.\n\nA wider skull causes the head to be longer."
+    "text": "Practice\n\n\n\n\n\n\n\n\nPractice question\n\n\nBased on the scatterplot on the right, which of the following statements is correct about the head and skull lengths of possums?\n\n\n\n\nThere is no relationship between head length and skull width, i.e. the variables are independent.\n\nHead length and skull width are positively associated.\nSkull width and head length are negatively associated.\n\nA longer head causes the skull to be wider.\n\nA wider skull causes the head to be longer.\n\n\n\n\n\n\n\n\n\n\nAnswer\n\n\n\nHead length and skull width are positively associated."
   },
   {
     "objectID": "course-materials/slides/chapter1.html#populations-and-samples",
@@ -267,7 +267,7 @@
     "href": "course-materials/slides/chapter1.html#sampling-bias",
     "title": "OpenIntro Statistics: Chapter 1",
     "section": "Sampling bias",
-    "text": "Sampling bias\n\nNon-response: If only a small fraction of the randomly sampled people respond, the sample may not be representative.\nVoluntary response: When people with strong opinions self-select into the sample, it’s not representative.\n\n \ncnn.com, Jan 14, 2012\n\nConvenience sample: Easily accessible individuals are more likely included."
+    "text": "Sampling bias\n\nNon-response: If only a small fraction of the randomly sampled people respond, the sample may not be representative.\nVoluntary response: When people with strong opinions self-select into the sample, it’s not representative.\n\n\n \ncnn.com, Jan 14, 2012\n\nConvenience sample: Easily accessible individuals are more likely included."
   },
   {
     "objectID": "course-materials/slides/chapter1.html#sampling-bias-example-landon-vs.-fdr",
@@ -484,7 +484,7 @@
     "href": "course-materials/slides/chapter1_o.html#practice",
     "title": "OpenIntro Statistics: Chapter 1",
     "section": "Practice",
-    "text": "Practice\n\n\n\n\n\n\nPractice question\n\n\n\nWhat type of variable is a telephone area code?\n\n\n\nnumerical, continuous\n\nnumerical, discrete\n\ncategorical (correct)\ncategorical, ordinal\n\n. . .\n\n\n\n\n\n\nAnswer\n\n\n\n\ncategorical"
+    "text": "Practice\n\n\n\n\n\n\nPractice question\n\n\n\nWhat type of variable is a telephone area code?\n\n\n\nnumerical, continuous\n\nnumerical, discrete\n\ncategorical\ncategorical, ordinal\n\n. . .\n\n\n\n\n\n\nAnswer\n\n\n\n\ncategorical"
   },
   {
     "objectID": "course-materials/slides/chapter1_o.html#relationships-among-variables",
@@ -519,7 +519,7 @@
     "href": "course-materials/slides/chapter1_o.html#practice-1",
     "title": "OpenIntro Statistics: Chapter 1",
     "section": "Practice",
-    "text": "Practice\n\n\n\n\n\n\n\n\nPractice question\n\n\n\nBased on the scatterplot on the right, which of the following statements is correct about the head and skull lengths of possums?\n\n\n\n\n\n\n\nThere is no relationship between head length and skull width, i.e. the variables are independent.\nb. Head length and skull width are positively associated. (correct)\n\nSkull width and head length are negatively associated.\n\nA longer head causes the skull to be wider.\n\nA wider skull causes the head to be longer."
+    "text": "Practice\n\n\n\n\n\n\n\n\nPractice question\n\n\n\nBased on the scatterplot on the right, which of the following statements is correct about the head and skull lengths of possums?\n\n\n\nThere is no relationship between head length and skull width, i.e. the variables are independent.\n\nHead length and skull width are positively associated.\nSkull width and head length are negatively associated.\n\nA longer head causes the skull to be wider.\n\nA wider skull causes the head to be longer.\n\n\n\n\n\n\n\n\n\n\n\nAnswer\n\n\n\n\nHead length and skull width are positively associated."
   },
   {
     "objectID": "course-materials/slides/chapter1_o.html#populations-and-samples",
@@ -561,7 +561,7 @@
     "href": "course-materials/slides/chapter1_o.html#sampling-bias",
     "title": "OpenIntro Statistics: Chapter 1",
     "section": "Sampling bias",
-    "text": "Sampling bias\n\nNon-response: If only a small fraction of the randomly sampled people respond, the sample may not be representative.\nVoluntary response: When people with strong opinions self-select into the sample, it’s not representative.\n\n \ncnn.com, Jan 14, 2012\n\nConvenience sample: Easily accessible individuals are more likely included."
+    "text": "Sampling bias\n\nNon-response: If only a small fraction of the randomly sampled people respond, the sample may not be representative.\nVoluntary response: When people with strong opinions self-select into the sample, it’s not representative.\n\n. . .\n \ncnn.com, Jan 14, 2012\n\nConvenience sample: Easily accessible individuals are more likely included."
   },
   {
     "objectID": "course-materials/slides/chapter1_o.html#sampling-bias-example-landon-vs.-fdr",
