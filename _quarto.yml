@@ -46,8 +46,8 @@ website:
           text: Support
         - href: course-instructor.qmd
           text: Instructor Information
-        # - href: project-description.qmd
-        #   text: Project Description
+        - href: project-description.qmd
+          text: Project Description
         - href: course-syllabus.qmd
           text: Syllabus
         - href: course-links.qmd
