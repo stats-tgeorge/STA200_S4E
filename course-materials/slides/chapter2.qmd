@@ -32,7 +32,7 @@ The relationship changed over the years.
 :::
 
 ::: {.column}
-![Scatterplot](figures/life_exp_child.png)
+![](figures/life_exp_child.png)
 
 <http://www.gapminder.org/world>
 
@@ -41,20 +41,20 @@ The relationship changed over the years.
 :::
 
 
-## Dot plots and the mean
+# Dot Plots and the Mean
 
 ## Dot plots
 
 Useful for visualizing one numerical variable. Darker colors represent areas where there are more observations.
 
-![Dot plot of GPA](figures/gpa_dot_plot/gpa_dot_plot.pdf)
+![](figures/gpa_dot_plot/gpa_dot_plot.png)
 
 **How would you describe the distribution of GPAs in this data set?**\
 Make sure to say something about the center, shape, and spread of the distribution.
 
 ## Dot plots & mean
 
-![Dot plot with mean GPA](/figures/gpa_dot_plot/gpa_dot_plot_mean.pdf)
+![](figures/gpa_dot_plot/gpa_dot_plot_mean.png)
 
 -   The **mean**, also called the **average** (marked with a triangle in the above plot), is one way to measure the center of a **distribution** of data.\
 -   The mean GPA is 3.59.
@@ -77,7 +77,7 @@ Make sure to say something about the center, shape, and spread of the distributi
 
 Higher bars represent areas where there are more observations, making it a little easier to judge the center and the shape of the distribution.
 
-![Stacked dot plot of GPA](figures/gpa_dot_plot/gpa_dot_plot_stacked.png)
+![](figures/gpa_dot_plot/gpa_dot_plot_stacked.png)
 
 # Histograms and Shape
 
@@ -87,7 +87,7 @@ Higher bars represent areas where there are more observations, making it a littl
 -   Histograms are especially convenient for describing the **shape** of the data distribution.\
 -   The chosen **bin width** can alter the story the histogram is telling.
 
-![Histogram of extracurricular hours](figures/extracurr_hrs_hist/extracurr_hrs_hist.png)
+![](figures/extracurr_hrs_hist/extracurr_hrs_hist.png){width="40%"}
 
 ## Bin width
 
@@ -95,15 +95,15 @@ Higher bars represent areas where there are more observations, making it a littl
 
 ::::: columns
 ::: column
-![Histogram 1](figures/extracurr_hrs_hist/extracurr_hrs_hist2.png)
+![Histogram 1](figures/extracurr_hrs_hist/extracurr_hrs_hist2.png){width="60%"}
 
-![Histogram 3](figures/extracurr_hrs_hist/extracurr_hrs_hist20.png)
+![Histogram 3](figures/extracurr_hrs_hist/extracurr_hrs_hist20.png){width="60%"}
 :::
 
 ::: column
-![Histogram 2](figures/extracurr_hrs_hist/extracurr_hrs_hist)
+![Histogram 2](figures/extracurr_hrs_hist/extracurr_hrs_hist){width="60%"}
 
-![Histogram 4](figures/extracurr_hrs_hist/extracurr_hrs_hist30)
+![Histogram 4](figures/extracurr_hrs_hist/extracurr_hrs_hist30){width="60%"}
 :::
 :::::
 
@@ -111,7 +111,7 @@ Higher bars represent areas where there are more observations, making it a littl
 
 Does the histogram have a single prominent peak (**unimodal**), several prominent peaks (**bimodal/multimodal**), or no apparent peaks (**uniform**)?
 
-![Modality examples](figures/singleBiMultiModalUnifPlots/singleBiMultiModalUnifPlots.png)
+![](figures/singleBiMultiModalUnifPlots/singleBiMultiModalUnifPlots.png)
 
 
 In order to determine modality, step back and imagine a smooth curve over the histogram — imagine that the bars are wooden blocks and you drop a limp spaghetti over them. The shape the spaghetti would take could be viewed as a smooth curve.
@@ -120,7 +120,7 @@ In order to determine modality, step back and imagine a smooth curve over the hi
 
 Is the histogram **right skewed**, **left skewed**, or **symmetric**?
 
-![Skewness examples](figures/skewedSymPlots/skewedSymPlots.png)
+![](figures/skewedSymPlots/skewedSymPlots.png)
 
 
 Histograms are said to be skewed to the side of the long tail.
@@ -129,15 +129,18 @@ Histograms are said to be skewed to the side of the long tail.
 
 Are there any unusual observations or potential **outliers**?
 
-![Outlier examples](figures/outlierPlots/outlierPlots.png)
+![](figures/outlierPlots/outlierPlots.png)
 
 ## Extracurricular activities
 
 **How would you describe the shape of the distribution of hours per week students spend on extracurricular activities?**
 
-![Histogram of extracurricular hours](figures/extracurr_hrs_hist/extracurr_hrs_hist.png)
+![](figures/extracurr_hrs_hist/extracurr_hrs_hist.png){width="30%"}
 
+
+:::{.fragment}
 Unimodal and right skewed, with a potentially unusual observation at 60 hours/week.
+:::
 
 ## Commonly observed shapes of distributions
 
@@ -145,45 +148,37 @@ Unimodal and right skewed, with a potentially unusual observation at 60 hours/we
 ::::::: columns
 ::: column
 unimodal\
-![](figures/shape_sketches/unimodal.png)
+![](figures/shape_sketches/unimodal.png){width="30%"}
+
 :::
 
 ::: column
 bimodal\
-![](figures/shape_sketches/bimodal.png)
+![](figures/shape_sketches/bimodal.png){width="30%"}
 :::
 
 ::: column
 multimodal\
-![](figures/shape_sketches/multimodal.png)
+![](figures/shape_sketches/multimodal.png){width="30%"}
 :::
 
 ::: column
 uniform\
-![](figures/shape_sketches/uniform.png)
+![](figures/shape_sketches/uniform.png){width="30%"}
 :::
-:::::::
 
-. . .
-
--   skewness\
-    . . .
-
-:::::: columns
 ::: column
 right skew\
-![](figures/shape_sketches/right_skew.png)
+![](figures/shape_sketches/right_skew.png){width="30%"}
 :::
 
 ::: column
 left skew\
-![](figures/shape_sketches/left_skew.png)
+![](figures/shape_sketches/left_skew.png){width="30%"}
 :::
 
-::: column
-symmetric\
-![](figures/shape_sketches/symmetric.png)
-:::
+![](figures/shape_sketches/symmetric.png){.absolute top=250 right=55 width="20%"}
+
 ::::::
 
 ## Practice
@@ -207,11 +202,13 @@ symmetric\
 -   scores on an exam\
 -   IQ scores
 
+:::{.fragment}
 Come up with a concise way (1-2 sentences) to teach someone how to determine the expected distribution of any variable.
+:::
 
 ## Are you typical?
 
-![Typical distribution](figures/typical.png)
+![](figures/typical.png)
 
 <http://www.youtube.com/watch?v=4B2xOvKFFz4>
 
@@ -219,7 +216,7 @@ Come up with a concise way (1-2 sentences) to teach someone how to determine the
 
 **How useful are centers alone for conveying the true characteristics of a distribution?**
 
-## Variance and standard deviation
+# Variance and Standard Deviation
 
 ## Variance
 
@@ -279,12 +276,12 @@ $$
 :::
 
 ::: column
-![Histogram of sleep hours](figures/sleep_hist/sleep_hist.png)
+![](figures/sleep_hist/sleep_hist.png)
 :::
 :::::
 
 
-## Box plots, quartiles, and the median
+# Box Plots, Quartiles, and the Median
 
 ## Median
 
@@ -318,22 +315,24 @@ $$
 
 The box in a **box plot** represents the middle 50% of the data, and the thick line in the box is the median.
 
-![Box plot of study hours](figures/study_hours/study_hours_box.png){width="70%"}
+![](figures/study_hours/study_hours_box.png){width="70%"}
 
 ## Anatomy of a box plot
 
-![Box plot anatomy](figures/study_hours/study_hours_box_layout.png){width="95%"}
+![](figures/study_hours/study_hours_box_layout.png){width="95%"}
 
 ## Whiskers and outliers
 
 -   **Whiskers** of a box plot can extend up to $1.5 \times IQR$ away from the quartiles.
 
+:::{.fragment}
 $$
 \begin{aligned}
 \text{max upper whisker reach} &= Q3 + 1.5 \times IQR \\
 \text{max lower whisker reach} &= Q1 - 1.5 \times IQR
 \end{aligned}
 $$
+:::
 
 . . .
 
@@ -362,17 +361,17 @@ $$
 
 -   Provide insight into interesting features of the data.
 
-## Robust statistics
+# Robust Statistics
 
 ## Extreme observations
 
 **Question:** How would sample statistics such as mean, median, SD, and IQR of household income be affected if the largest value was replaced with \$10 million? What if the smallest value was replaced with \$10 million?
 
-![Household income dot plot](figures/house_income/house_income_dot_stacked.png){width="100%"}
+![](figures/house_income/house_income_dot_stacked.png){width="100%"}
 
 ## Robust statistics
 
-![Household income dot plot](figures/house_income/house_income_dot_stacked.png){width="100%"}
+![](figures/house_income/house_income_dot_stacked.png){width="100%"}
 
 <small>
 
@@ -407,15 +406,20 @@ Median and IQR are more robust to skewness and outliers than mean and SD. Theref
 
 -   If the distribution is symmetric, center is often defined as the mean: mean ≈ median
 
-    ![Symmetric distribution](figures/mean_med/sym.png){width="33%"}
+::::{.fragment}
+![](figures/mean_med/sym.png){width="80%"}
+::::
+
+## Mean vs. median (continued)
 
 -   If the distribution is skewed or has extreme outliers, center is often defined as the median
 
     -   Right-skewed: mean \> median\
     -   Left-skewed: mean \< median
-
-::: {style="display: flex; justify-content: center;"}
-<img src="/figures/mean_med/rs" width="33%"/> <img src="/figures/mean_med/ls" width="33%"/>
+    
+::: {style="justify-content: center"}
+![Right Skew](figures/mean_med/rs.png){width="40%"}
+![Left Skew](figures/mean_med/ls.png){width="40%"}
 :::
 
 ## Practice
@@ -426,7 +430,7 @@ Median and IQR are more robust to skewness and outliers than mean and SD. Theref
 
 :::::: {style="display: flex;"}
 ::: {style="flex: 0 0 70%;"}
-![Notes Percentage Histogram](figures/notes_perc/notes_perc_hist.png){width="90%"}
+![](figures/notes_perc/notes_perc_hist.png){width="60%"}
 :::
 
 :::: {style="flex: 0 0 30%; padding-left: 1em;"}
@@ -448,7 +452,7 @@ Median and IQR are more robust to skewness and outliers than mean and SD. Theref
 **Answer:** mean \< median
 :::
 
-## Transforming data
+# Transforming Data
 
 ## Extremely skewed data
 
@@ -459,7 +463,7 @@ When data are extremely skewed, transforming them might make modeling easier. A 
 The histograms on the left show the distribution of number of basketball games attended by students. The histogram on the right shows the distribution of log of number of games attended.
 
 ::: {style="display: flex; justify-content: center;"}
-<img src="/figures/basket_games/basket_games_hist" width="50%"/> <img src="/figures/basket_games/basket_games_hist_log" width="50%"/>
+![](figures/basket_games/basket_games_hist.png){width="45%"} ![](figures/basket_games/basket_games_hist_log.png){width="45%"}
 :::
 
 ## Pros and cons of transformations
@@ -484,7 +488,7 @@ The histograms on the left show the distribution of number of basketball games a
 
 > **A:** Salary, housing prices, etc.
 
-## Mapping data
+# Mapping Data
 
 ## Intensity maps
 
@@ -494,4 +498,4 @@ The histograms on the left show the distribution of number of basketball games a
 
 
 > [Source](http://projects.nytimes.com/census/2010/map)
-::::::::::::::::::::::::::::::::
+
