@@ -1,22 +1,41 @@
 ---
-title: "Activity 3 - Using Waypoints Database"
+title: "Activity 3 - Creating a Data Dictionary "
 format: 
   html: default
   docx: default
 ---
 
-In this activity I would like each group to practice using Waypoints database. Read the Waypoint instructions vary carefully. Answer the following questions.
+### Names ____________________________
 
-1.  Which part of a clients page will you find when they entered and exited a service rendered?
+### Definition
 
-2.  Two acronyms being used are RRH and ES; what do they stand for?
+A **data dictionary** is a table that describes the variables in a dataset: their names, what they mean, what type of data they are, and any special notes. Data dictionaries help you (and others!) understand your dataset clearly and avoid mistakes in analysis.
 
-3.  How many years of data are we going to work with?
+In this activity, you will create a data dictionary for the dataset provided.
 
-4.  How can you see what the exit destination was and if it was successful exit?
 
-5.  What variables and what are the levels of the variables we are going to collect information on?
+1. Create a table in Word.
 
-6.  Practice. Create a table below with the variables as columns and the individuals as rows. For the the five clients who are listed on the whiteboard, fill in your table. Each group member needs to complete 1 entry.
+Open a blank Word document and insert a table with the following four columns:
 
-Once complete this short activity, I would like your group to start planning whys we can use this data to investigate inequities we have been discussing in class. We will soon cover some statistics but start considering how you will summarize and visualize this information in a way that will informative, meaningful, and easily understandable to the public. I encourage you to also look for examples online and include them in a document shared in your group folder. Make sure to cite your sources.
+| Variable | Description | Type | Notes |
+|----------|-------------|------|-------|
+|          |             |      |       |
+
+**Column definitions:**
+
+- **Variable**: the exact column name from the dataset.  
+- **Description**: a short explanation, in plain language, of what the variable means.  
+- **Type**: the kind of data (numeric, categorical and what kind of each).  
+- **Notes**: anything extra that would help someone understand or use the data (units, coding scheme, missing values, etc.).
+
+2. Fill in the table.
+
+4. Put your table in its own word document. Save it as its own file with name **WaypointHDP_DataDictionary.docx** and then upload it to your group Google Drive folder. 
+
+5. Extra.
+- Open your current data. 
+- Re-save your file with name **WaypointHDP_Data_Group(give group number)**. 
+- Delete the tab CE Contact tab. 
+- Save.
+- Upload clean data to your group folder. 

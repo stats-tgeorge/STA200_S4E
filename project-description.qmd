@@ -21,19 +21,9 @@ You will not do an exhaustive data analysis i.e., calculate every statistic and 
 
 The project is very open ended. You should conduct an investigation of the data, investigate variables, and searching for insights. You should also create at least one very compelling visualization to can be used to shed light on your research question.
 
-Some ideas:
+Some ideas: Brochure, Comics, Children's Book, Poster/infographic, Video/tik tok, Inforgraphic. 
 
--   Brochure
-
--   Comics
-
--   Children's Book
-
--   Poster/infographic
-
--   Video/tik tok
-
-### Deliverables and Due Dates
+## Deliverables and Due Dates
 
 1)    Mid Block Presentation - Due Thursday, September 4th at 9am. Practice in Class.
 
@@ -169,27 +159,35 @@ Clarity, organization, and writing quality (typos, grammar).
 
 Credit: [The Undergraduate Statistics Project Competition](https://www.causeweb.org/usproc/report-template)
 
-+-----------------------+--------------+
-| Total                 | 200 pts      |
-+=======================+==============+
-| 1.  Title             | 10 pts       |
-+-----------------------+--------------+
-| 2.  Background        | 40 pts       |
-+-----------------------+--------------+
-| 3.  Methods           | 40 pts       |
-+-----------------------+--------------+
-| 4.  Results           | 40 pts       |
-+-----------------------+--------------+
-| 5.  Conclusions       | 30 pts       |
-+-----------------------+--------------+
-| 6.  References        | 20 pts       |
-+-----------------------+--------------+
-| 7.  Technical Quality | 20 pts       |
-+-----------------------+--------------+
+### Early-Submission of Analysis Reports
+
+At first submission, you should have all components of the report included; however, your paper may not be as polished. I will evaluate you across the same areas, but the total points are 50. Generally, I will be more forgiving and leave comments, but not always take off points during the first submission round. Our Learning Assistant will also review your paper to provide feedback, but will not be involved in the grading process. 
+
+
++-----------------------+------------------+-----------------+
+|                       | First Submission | Final Submission|
++=======================+==================+=================+
+| Total                 | 50 pts           | 150 pts         |
++-----------------------+------------------+-----------------+
+| 1.  Title             | 2.5 pts          | 7.5 pts         |
++-----------------------+------------------+-----------------+
+| 2.  Background        | 10 pts           | 30 pts          |
++-----------------------+------------------+-----------------+
+| 3.  Methods           | 10 pts           | 30 pts          |
++-----------------------+------------------+-----------------+
+| 4.  Results           | 10 pts           | 30 pts          |
++-----------------------+------------------+-----------------+
+| 5.  Conclusions       | 7.5 pts          | 22.5 pts        |
++-----------------------+------------------+-----------------+
+| 6.  References        | 5 pts            | 15 pts          |
++-----------------------+------------------+-----------------+
+| 7.  Technical Quality | 5 pts            | 15 pts          |
++-----------------------+------------------+-----------------+
+
 
 ### Visual
 
-#### Final Visual - In Progress
+#### Final Visual
 
 You and your group will present your ongoing project visual to your professor. This is less of a presentation and more of showing your plots and tables that will go into your visual, and having a detailed written plan.
 
@@ -255,11 +253,11 @@ Consider the different audiences when presenting your visuals.
 |--------------------------------------------|---------|
 | Mid Block Presentation (files contents)    | 50 pts  |
 | Mid Block Presentation                     | 50 pts  |
-| Analysis report                            | 200 pts |
 | In progress final visual with presentation | 50 pts  |
 | Final visual                               | 100 pts |
 | Final Presentation to Waypoint             | 50 pts  |
 | SYS Showcase                               | 50 pts  |
+| Analysis report                            | 200 pts |
 
 ### General Criteria/Rubric
 
