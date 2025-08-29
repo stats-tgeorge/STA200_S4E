@@ -13,16 +13,16 @@ description: Discussion, OI 1.4-2.2, Project
 -   Class discussion on "Why Black Women Are More Likely to Face Eviction."
 
 -   OpenIntro Sections 1.4-2.2
+
     -   Ch1 Slides at [THIS LINK](/course-materials/slides/chapter1.html).
 
     -   Ch1 Outline at [THIS LINK](/course-materials/slides/chapter1_o.html).
-    
+
     -   Ch2 Slides at [THIS LINK](/course-materials/slides/chapter2.html).
 
     -   Ch2 Outline at [THIS LINK](/course-materials/slides/chapter2_o.html).
 
--   [Activity 3](/course-materials/activities/Activity3.qmd)- Creating a Data Dictionary. [Google Doc](/course-materials/activities/Activity3.docx) for working.
-
 ## Homework
 
--   OI exercises: 1.14, 1.16, 1.20, 1.24, 1.25, 1.30, 1.38, 1.40, 2.1, 2.2, 2.4, 2.10, 2.12, 2.14, 2.16, 2.20. 
+-   OI exercises: 1.14, 1.16, 1.20, 1.24, 1.25, 1.30, 1.38, 1.40, 2.1, 2.2, 2.4, 2.10
+-   [Activity 3](/course-materials/activities/Activity3.qmd)- Creating a Data Dictionary. [Google Doc](/course-materials/activities/Activity3.docx) for working.
