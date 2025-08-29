@@ -2,16 +2,22 @@
 title: "Day 6"
 format: html
 date: "1-September-2025"
-Homework Due: TBD
-description: TBD
+Homework Due: September 2nd at 9am
+description: OI 2.1-2.3
 ---
 
 ## Class Topics
 
--   [Minitab](https://app.minitab.com) introduction.
+-   OpenIntro homework questions
 
-## Homework 
+-   OpenIntro Sections 2.1 - 2.3
 
+    -   Ch2 Slides at [THIS LINK](/course-materials/slides/chapter2.html).
 
+    -   Ch2 Outline at [THIS LINK](/course-materials/slides/chapter2_o.html).
 
+-   Project - Clean Columns (together) & Plan Analysis
 
+## Homework
+
+-   OI exercises: 2.21, 2.22, 2.24, 2.26, 2.28, 2.34.
