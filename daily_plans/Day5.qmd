@@ -24,5 +24,5 @@ description: Discussion, OI 1.4-2.2, Project
 
 ## Homework
 
--   OI exercises: 1.14, 1.16, 1.20, 1.24, 1.25, 1.30, 1.38, 1.40, 2.1, 2.2, 2.4, 2.10
+-   OI exercises: 1.14, 1.16, 1.20, 1.24, 1.25, 1.30, 1.38, 1.40, 2.1, 2.2, 2.4
 -   [Activity 3](/course-materials/activities/Activity3.qmd)- Creating a Data Dictionary. [Google Doc](/course-materials/activities/Activity3.docx) for working.
