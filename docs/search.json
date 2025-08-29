@@ -871,35 +871,28 @@
     "href": "course-materials/slides/chapter2_o.html",
     "title": "OpenIntro Statistics: Chapter 2",
     "section": "",
-    "text": "Scatterplots are useful for visualizing the relationship between two numerical variables.\n\n\nDo life expectancy and total fertility appear to be associated or independent?\n\nThey appear to be linearly and negatively associated: as fertility increases, life expectancy decreases.\n\nWas the relationship the same throughout the years, or did it change?\n\nThe relationship changed over the years.\n\n\n\n\n\nScatterplot\n\n\nhttp://www.gapminder.org/world"
+    "text": "Scatterplots are useful for visualizing the relationship between two numerical variables.\n\n\nDo life expectancy and total fertility appear to be associated or independent?\n\nThey appear to be linearly and negatively associated: as fertility increases, life expectancy decreases.\n\nWas the relationship the same throughout the years, or did it change?\n\nThe relationship changed over the years.\n\n\n\nhttp://www.gapminder.org/world"
   },
   {
     "objectID": "course-materials/slides/chapter2_o.html#scatterplot",
     "href": "course-materials/slides/chapter2_o.html#scatterplot",
     "title": "OpenIntro Statistics: Chapter 2",
     "section": "",
-    "text": "Scatterplots are useful for visualizing the relationship between two numerical variables.\n\n\nDo life expectancy and total fertility appear to be associated or independent?\n\nThey appear to be linearly and negatively associated: as fertility increases, life expectancy decreases.\n\nWas the relationship the same throughout the years, or did it change?\n\nThe relationship changed over the years.\n\n\n\n\n\nScatterplot\n\n\nhttp://www.gapminder.org/world"
-  },
-  {
-    "objectID": "course-materials/slides/chapter2_o.html#dot-plots-and-the-mean",
-    "href": "course-materials/slides/chapter2_o.html#dot-plots-and-the-mean",
-    "title": "OpenIntro Statistics: Chapter 2",
-    "section": "Dot plots and the mean",
-    "text": "Dot plots and the mean"
+    "text": "Scatterplots are useful for visualizing the relationship between two numerical variables.\n\n\nDo life expectancy and total fertility appear to be associated or independent?\n\nThey appear to be linearly and negatively associated: as fertility increases, life expectancy decreases.\n\nWas the relationship the same throughout the years, or did it change?\n\nThe relationship changed over the years.\n\n\n\nhttp://www.gapminder.org/world"
   },
   {
     "objectID": "course-materials/slides/chapter2_o.html#dot-plots",
     "href": "course-materials/slides/chapter2_o.html#dot-plots",
     "title": "OpenIntro Statistics: Chapter 2",
     "section": "Dot plots",
-    "text": "Dot plots\nUseful for visualizing one numerical variable. Darker colors represent areas where there are more observations.\n\n\n\nDot plot of GPA\n\n\nHow would you describe the distribution of GPAs in this data set?\nMake sure to say something about the center, shape, and spread of the distribution."
+    "text": "Dot plots\nUseful for visualizing one numerical variable. Darker colors represent areas where there are more observations.\n\nHow would you describe the distribution of GPAs in this data set?\nMake sure to say something about the center, shape, and spread of the distribution."
   },
   {
     "objectID": "course-materials/slides/chapter2_o.html#dot-plots-mean",
     "href": "course-materials/slides/chapter2_o.html#dot-plots-mean",
     "title": "OpenIntro Statistics: Chapter 2",
     "section": "Dot plots & mean",
-    "text": "Dot plots & mean\n\n\n\nDot plot with mean GPA\n\n\n\nThe mean, also called the average (marked with a triangle in the above plot), is one way to measure the center of a distribution of data.\n\nThe mean GPA is 3.59."
+    "text": "Dot plots & mean\n\n\nThe mean, also called the average (marked with a triangle in the above plot), is one way to measure the center of a distribution of data.\n\nThe mean GPA is 3.59."
   },
   {
     "objectID": "course-materials/slides/chapter2_o.html#mean",
@@ -913,14 +906,14 @@
     "href": "course-materials/slides/chapter2_o.html#stacked-dot-plot",
     "title": "OpenIntro Statistics: Chapter 2",
     "section": "Stacked dot plot",
-    "text": "Stacked dot plot\nHigher bars represent areas where there are more observations, making it a little easier to judge the center and the shape of the distribution.\n\n\n\nStacked dot plot of GPA"
+    "text": "Stacked dot plot\nHigher bars represent areas where there are more observations, making it a little easier to judge the center and the shape of the distribution."
   },
   {
     "objectID": "course-materials/slides/chapter2_o.html#histograms-extracurricular-hours",
     "href": "course-materials/slides/chapter2_o.html#histograms-extracurricular-hours",
     "title": "OpenIntro Statistics: Chapter 2",
     "section": "Histograms – Extracurricular hours",
-    "text": "Histograms – Extracurricular hours\n\nHistograms provide a view of the data density. Higher bars represent where the data are relatively more common.\n\nHistograms are especially convenient for describing the shape of the data distribution.\n\nThe chosen bin width can alter the story the histogram is telling.\n\n\n\n\nHistogram of extracurricular hours"
+    "text": "Histograms – Extracurricular hours\n\nHistograms provide a view of the data density. Higher bars represent where the data are relatively more common.\n\nHistograms are especially convenient for describing the shape of the data distribution.\n\nThe chosen bin width can alter the story the histogram is telling."
   },
   {
     "objectID": "course-materials/slides/chapter2_o.html#bin-width",
@@ -934,35 +927,35 @@
     "href": "course-materials/slides/chapter2_o.html#shape-of-a-distribution-modality",
     "title": "OpenIntro Statistics: Chapter 2",
     "section": "Shape of a distribution: modality",
-    "text": "Shape of a distribution: modality\nDoes the histogram have a single prominent peak (unimodal), several prominent peaks (bimodal/multimodal), or no apparent peaks (uniform)?\n\n\n\nModality examples\n\n\nIn order to determine modality, step back and imagine a smooth curve over the histogram — imagine that the bars are wooden blocks and you drop a limp spaghetti over them. The shape the spaghetti would take could be viewed as a smooth curve."
+    "text": "Shape of a distribution: modality\nDoes the histogram have a single prominent peak (unimodal), several prominent peaks (bimodal/multimodal), or no apparent peaks (uniform)?\n\nIn order to determine modality, step back and imagine a smooth curve over the histogram — imagine that the bars are wooden blocks and you drop a limp spaghetti over them. The shape the spaghetti would take could be viewed as a smooth curve."
   },
   {
     "objectID": "course-materials/slides/chapter2_o.html#shape-of-a-distribution-skewness",
     "href": "course-materials/slides/chapter2_o.html#shape-of-a-distribution-skewness",
     "title": "OpenIntro Statistics: Chapter 2",
     "section": "Shape of a distribution: skewness",
-    "text": "Shape of a distribution: skewness\nIs the histogram right skewed, left skewed, or symmetric?\n\n\n\nSkewness examples\n\n\nHistograms are said to be skewed to the side of the long tail."
+    "text": "Shape of a distribution: skewness\nIs the histogram right skewed, left skewed, or symmetric?\n\nHistograms are said to be skewed to the side of the long tail."
   },
   {
     "objectID": "course-materials/slides/chapter2_o.html#shape-of-a-distribution-unusual-observations",
     "href": "course-materials/slides/chapter2_o.html#shape-of-a-distribution-unusual-observations",
     "title": "OpenIntro Statistics: Chapter 2",
     "section": "Shape of a distribution: unusual observations",
-    "text": "Shape of a distribution: unusual observations\nAre there any unusual observations or potential outliers?\n\n\n\nOutlier examples"
+    "text": "Shape of a distribution: unusual observations\nAre there any unusual observations or potential outliers?"
   },
   {
     "objectID": "course-materials/slides/chapter2_o.html#extracurricular-activities",
     "href": "course-materials/slides/chapter2_o.html#extracurricular-activities",
     "title": "OpenIntro Statistics: Chapter 2",
     "section": "Extracurricular activities",
-    "text": "Extracurricular activities\nHow would you describe the shape of the distribution of hours per week students spend on extracurricular activities?\n\n\n\nHistogram of extracurricular hours\n\n\nUnimodal and right skewed, with a potentially unusual observation at 60 hours/week."
+    "text": "Extracurricular activities\nHow would you describe the shape of the distribution of hours per week students spend on extracurricular activities?\n\n\nUnimodal and right skewed, with a potentially unusual observation at 60 hours/week."
   },
   {
     "objectID": "course-materials/slides/chapter2_o.html#commonly-observed-shapes-of-distributions",
     "href": "course-materials/slides/chapter2_o.html#commonly-observed-shapes-of-distributions",
     "title": "OpenIntro Statistics: Chapter 2",
     "section": "Commonly observed shapes of distributions",
-    "text": "Commonly observed shapes of distributions\n\n\nunimodal\n\n\nbimodal\n\n\nmultimodal\n\n\nuniform\n\n\n\n. . .\n\nskewness\n. . .\n\n\n\nright skew\n\n\nleft skew\n\n\nsymmetric"
+    "text": "Commonly observed shapes of distributions\n\n\nunimodal\n\n\nbimodal\n\n\nmultimodal\n\n\nuniform\n\n\nright skew\n\n\nleft skew"
   },
   {
     "objectID": "course-materials/slides/chapter2_o.html#practice",
@@ -976,21 +969,14 @@
     "href": "course-materials/slides/chapter2_o.html#application-activity-shapes-of-distributions",
     "title": "OpenIntro Statistics: Chapter 2",
     "section": "Application activity: Shapes of distributions",
-    "text": "Application activity: Shapes of distributions\nSketch the expected distributions of the following variables:\n\nnumber of piercings\n\nscores on an exam\n\nIQ scores\n\nCome up with a concise way (1-2 sentences) to teach someone how to determine the expected distribution of any variable."
+    "text": "Application activity: Shapes of distributions\nSketch the expected distributions of the following variables:\n\nnumber of piercings\n\nscores on an exam\n\nIQ scores\n\n\nCome up with a concise way (1-2 sentences) to teach someone how to determine the expected distribution of any variable."
   },
   {
     "objectID": "course-materials/slides/chapter2_o.html#are-you-typical",
     "href": "course-materials/slides/chapter2_o.html#are-you-typical",
     "title": "OpenIntro Statistics: Chapter 2",
     "section": "Are you typical?",
-    "text": "Are you typical?\n\n\n\nTypical distribution\n\n\nhttp://www.youtube.com/watch?v=4B2xOvKFFz4\n. . .\nHow useful are centers alone for conveying the true characteristics of a distribution?"
-  },
-  {
-    "objectID": "course-materials/slides/chapter2_o.html#variance-and-standard-deviation",
-    "href": "course-materials/slides/chapter2_o.html#variance-and-standard-deviation",
-    "title": "OpenIntro Statistics: Chapter 2",
-    "section": "Variance and standard deviation",
-    "text": "Variance and standard deviation"
+    "text": "Are you typical?\n\nhttp://www.youtube.com/watch?v=4B2xOvKFFz4\n. . .\nHow useful are centers alone for conveying the true characteristics of a distribution?"
   },
   {
     "objectID": "course-materials/slides/chapter2_o.html#variance",
@@ -1011,14 +997,7 @@
     "href": "course-materials/slides/chapter2_o.html#standard-deviation",
     "title": "OpenIntro Statistics: Chapter 2",
     "section": "Standard deviation",
-    "text": "Standard deviation\nThe standard deviation is the square root of the variance, and has the same units as the data.\n\\[\ns = \\sqrt{s^2}\n\\]\n. . .\n\n\n\nThe standard deviation of amount of sleep students get per night can be calculated as:\n\\[\ns = \\sqrt{4.11} = 2.03~\\text{hours}\n\\]\n\nWe can see that all of the data are within 3 standard deviations of the mean.\n\n\n\n\n\nHistogram of sleep hours"
-  },
-  {
-    "objectID": "course-materials/slides/chapter2_o.html#box-plots-quartiles-and-the-median",
-    "href": "course-materials/slides/chapter2_o.html#box-plots-quartiles-and-the-median",
-    "title": "OpenIntro Statistics: Chapter 2",
-    "section": "Box plots, quartiles, and the median",
-    "text": "Box plots, quartiles, and the median"
+    "text": "Standard deviation\nThe standard deviation is the square root of the variance, and has the same units as the data.\n\\[\ns = \\sqrt{s^2}\n\\]\n. . .\n\n\n\nThe standard deviation of amount of sleep students get per night can be calculated as:\n\\[\ns = \\sqrt{4.11} = 2.03~\\text{hours}\n\\]\n\nWe can see that all of the data are within 3 standard deviations of the mean."
   },
   {
     "objectID": "course-materials/slides/chapter2_o.html#median",
@@ -1039,21 +1018,21 @@
     "href": "course-materials/slides/chapter2_o.html#box-plot",
     "title": "OpenIntro Statistics: Chapter 2",
     "section": "Box plot",
-    "text": "Box plot\nThe box in a box plot represents the middle 50% of the data, and the thick line in the box is the median.\n\n\n\nBox plot of study hours"
+    "text": "Box plot\nThe box in a box plot represents the middle 50% of the data, and the thick line in the box is the median."
   },
   {
     "objectID": "course-materials/slides/chapter2_o.html#anatomy-of-a-box-plot",
     "href": "course-materials/slides/chapter2_o.html#anatomy-of-a-box-plot",
     "title": "OpenIntro Statistics: Chapter 2",
     "section": "Anatomy of a box plot",
-    "text": "Anatomy of a box plot\n\n\n\nBox plot anatomy"
+    "text": "Anatomy of a box plot"
   },
   {
     "objectID": "course-materials/slides/chapter2_o.html#whiskers-and-outliers",
     "href": "course-materials/slides/chapter2_o.html#whiskers-and-outliers",
     "title": "OpenIntro Statistics: Chapter 2",
     "section": "Whiskers and outliers",
-    "text": "Whiskers and outliers\n\nWhiskers of a box plot can extend up to \\(1.5 \\times IQR\\) away from the quartiles.\n\n\\[\n\\begin{aligned}\n\\text{max upper whisker reach} &= Q3 + 1.5 \\times IQR \\\\\n\\text{max lower whisker reach} &= Q1 - 1.5 \\times IQR\n\\end{aligned}\n\\]\n. . .\n\\[\n\\begin{aligned}\n\\text{IQR} &= 20 - 10 = 10 \\\\\n\\text{max upper whisker reach} &= 20 + 1.5 \\times 10 = 35 \\\\\n\\text{max lower whisker reach} &= 10 - 1.5 \\times 10 = -5\n\\end{aligned}\n\\]\n. . .\n\nA potential outlier is defined as an observation beyond the maximum reach of the whiskers. It is an observation that appears extreme relative to the rest of the data."
+    "text": "Whiskers and outliers\n\nWhiskers of a box plot can extend up to \\(1.5 \\times IQR\\) away from the quartiles.\n\n\n\\[\n\\begin{aligned}\n\\text{max upper whisker reach} &= Q3 + 1.5 \\times IQR \\\\\n\\text{max lower whisker reach} &= Q1 - 1.5 \\times IQR\n\\end{aligned}\n\\]\n\n. . .\n\\[\n\\begin{aligned}\n\\text{IQR} &= 20 - 10 = 10 \\\\\n\\text{max upper whisker reach} &= 20 + 1.5 \\times 10 = 35 \\\\\n\\text{max lower whisker reach} &= 10 - 1.5 \\times 10 = -5\n\\end{aligned}\n\\]\n. . .\n\nA potential outlier is defined as an observation beyond the maximum reach of the whiskers. It is an observation that appears extreme relative to the rest of the data."
   },
   {
     "objectID": "course-materials/slides/chapter2_o.html#outliers-cont.",
@@ -1063,25 +1042,18 @@
     "text": "Outliers (cont.)\nQuestion: Why is it important to look for outliers?\n. . .\n\nIdentify extreme skew in the distribution.\nIdentify data collection and entry errors.\nProvide insight into interesting features of the data."
   },
   {
-    "objectID": "course-materials/slides/chapter2_o.html#robust-statistics",
-    "href": "course-materials/slides/chapter2_o.html#robust-statistics",
-    "title": "OpenIntro Statistics: Chapter 2",
-    "section": "Robust statistics",
-    "text": "Robust statistics"
-  },
-  {
     "objectID": "course-materials/slides/chapter2_o.html#extreme-observations",
     "href": "course-materials/slides/chapter2_o.html#extreme-observations",
     "title": "OpenIntro Statistics: Chapter 2",
     "section": "Extreme observations",
-    "text": "Extreme observations\nQuestion: How would sample statistics such as mean, median, SD, and IQR of household income be affected if the largest value was replaced with $10 million? What if the smallest value was replaced with $10 million?\n\n\n\nHousehold income dot plot"
+    "text": "Extreme observations\nQuestion: How would sample statistics such as mean, median, SD, and IQR of household income be affected if the largest value was replaced with $10 million? What if the smallest value was replaced with $10 million?"
   },
   {
     "objectID": "course-materials/slides/chapter2_o.html#robust-statistics-1",
     "href": "course-materials/slides/chapter2_o.html#robust-statistics-1",
     "title": "OpenIntro Statistics: Chapter 2",
     "section": "Robust statistics",
-    "text": "Robust statistics\n\n\n\nHousehold income dot plot\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nscenario\n\nrobust\n\n\nnot robust\n\n\n\n\n\n\n\nmedian\nIQR\n\n\\(\\bar{x}\\)\n\\(s\\)\n\n\noriginal data\n\n190K\n200K\n\n245K\n226K\n\n\nmove largest to $10 million\n\n190K\n200K\n\n309K\n853K\n\n\nmove smallest to $10 million\n\n200K\n200K\n\n316K\n854K"
+    "text": "Robust statistics\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nscenario\n\nrobust\n\n\nnot robust\n\n\n\n\n\n\n\nmedian\nIQR\n\n\\(\\bar{x}\\)\n\\(s\\)\n\n\noriginal data\n\n190K\n200K\n\n245K\n226K\n\n\nmove largest to $10 million\n\n190K\n200K\n\n309K\n853K\n\n\nmove smallest to $10 million\n\n200K\n200K\n\n316K\n854K"
   },
   {
     "objectID": "course-materials/slides/chapter2_o.html#robust-statistics-2",
@@ -1095,21 +1067,21 @@
     "href": "course-materials/slides/chapter2_o.html#mean-vs.-median",
     "title": "OpenIntro Statistics: Chapter 2",
     "section": "Mean vs. median",
-    "text": "Mean vs. median\n\nIf the distribution is symmetric, center is often defined as the mean: mean ≈ median\n\n\n\nSymmetric distribution\n\n\nIf the distribution is skewed or has extreme outliers, center is often defined as the median\n\nRight-skewed: mean &gt; median\n\nLeft-skewed: mean &lt; median"
+    "text": "Mean vs. median\n\nIf the distribution is symmetric, center is often defined as the mean: mean ≈ median"
+  },
+  {
+    "objectID": "course-materials/slides/chapter2_o.html#mean-vs.-median-continued",
+    "href": "course-materials/slides/chapter2_o.html#mean-vs.-median-continued",
+    "title": "OpenIntro Statistics: Chapter 2",
+    "section": "Mean vs. median (continued)",
+    "text": "Mean vs. median (continued)\n\nIf the distribution is skewed or has extreme outliers, center is often defined as the median\n\nRight-skewed: mean &gt; median\n\nLeft-skewed: mean &lt; median"
   },
   {
     "objectID": "course-materials/slides/chapter2_o.html#practice-1",
     "href": "course-materials/slides/chapter2_o.html#practice-1",
     "title": "OpenIntro Statistics: Chapter 2",
     "section": "Practice",
-    "text": "Practice\nWhich is most likely true for the distribution of percentage of time actually spent taking notes in class versus on Facebook, Twitter, etc.?\n. . .\n\n\n\n\n\nNotes Percentage Histogram\n\n\n\n\n\nMedian: 80%\nMean: 76%\n\n\n\n\nmean &gt; median\n\nmean &lt; median\n\nmean ≈ median\n\nimpossible to tell\n\n\n\nAnswer: mean &lt; median"
-  },
-  {
-    "objectID": "course-materials/slides/chapter2_o.html#transforming-data",
-    "href": "course-materials/slides/chapter2_o.html#transforming-data",
-    "title": "OpenIntro Statistics: Chapter 2",
-    "section": "Transforming data",
-    "text": "Transforming data"
+    "text": "Practice\nWhich is most likely true for the distribution of percentage of time actually spent taking notes in class versus on Facebook, Twitter, etc.?\n. . .\n\n\n\n\n\n\nMedian: 80%\nMean: 76%\n\n\n\n\nmean &gt; median\n\nmean &lt; median\n\nmean ≈ median\n\nimpossible to tell\n\n\n\nAnswer: mean &lt; median"
   },
   {
     "objectID": "course-materials/slides/chapter2_o.html#extremely-skewed-data",
@@ -1126,18 +1098,11 @@
     "text": "Pros and cons of transformations\n\nSkewed data are easier to model with when they are transformed because outliers tend to become far less prominent after an appropriate transformation.\n\n\n\n\n# of games\n70\n50\n25\n⋯\n\n\n\n\nlog(# of games)\n4.25\n3.91\n3.22\n⋯\n\n\n\n\nHowever, results of an analysis in log units of the measured variable might be difficult to interpret.\n\n. . .\n\nQ: What other variables would you expect to be extremely skewed?\n\n. . .\n\nA: Salary, housing prices, etc."
   },
   {
-    "objectID": "course-materials/slides/chapter2_o.html#mapping-data",
-    "href": "course-materials/slides/chapter2_o.html#mapping-data",
-    "title": "OpenIntro Statistics: Chapter 2",
-    "section": "Mapping data",
-    "text": "Mapping data"
-  },
-  {
     "objectID": "course-materials/slides/chapter2_o.html#intensity-maps",
     "href": "course-materials/slides/chapter2_o.html#intensity-maps",
     "title": "OpenIntro Statistics: Chapter 2",
     "section": "Intensity maps",
-    "text": "Intensity maps\n\nQ: What patterns are apparent in the change in population between 2000 and 2010?\n\n\n\n\n\nSource ::::::::::::::::::::::::::::::::"
+    "text": "Intensity maps\n\nQ: What patterns are apparent in the change in population between 2000 and 2010?\n\n\n\n\n\nSource"
   },
   {
     "objectID": "course-materials/slides/chapter2.html#scatterplot",
@@ -1145,13 +1110,6 @@
     "title": "OpenIntro Statistics: Chapter 2",
     "section": "Scatterplot",
     "text": "Scatterplot\nScatterplots are useful for visualizing the relationship between two numerical variables.\n\n\nDo life expectancy and total fertility appear to be associated or independent?\n\nThey appear to be linearly and negatively associated: as fertility increases, life expectancy decreases.\n\nWas the relationship the same throughout the years, or did it change?\n\nThe relationship changed over the years.\n\n\n\nhttp://www.gapminder.org/world"
-  },
-  {
-    "objectID": "course-materials/slides/chapter2.html#dot-plots-and-the-mean",
-    "href": "course-materials/slides/chapter2.html#dot-plots-and-the-mean",
-    "title": "OpenIntro Statistics: Chapter 2",
-    "section": "Dot plots and the mean",
-    "text": "Dot plots and the mean"
   },
   {
     "objectID": "course-materials/slides/chapter2.html#dot-plots",
@@ -1252,13 +1210,6 @@
     "text": "Are you typical?\n\nhttp://www.youtube.com/watch?v=4B2xOvKFFz4\n\nHow useful are centers alone for conveying the true characteristics of a distribution?"
   },
   {
-    "objectID": "course-materials/slides/chapter2.html#variance-and-standard-deviation",
-    "href": "course-materials/slides/chapter2.html#variance-and-standard-deviation",
-    "title": "OpenIntro Statistics: Chapter 2",
-    "section": "Variance and standard deviation",
-    "text": "Variance and standard deviation"
-  },
-  {
     "objectID": "course-materials/slides/chapter2.html#variance",
     "href": "course-materials/slides/chapter2.html#variance",
     "title": "OpenIntro Statistics: Chapter 2",
@@ -1278,13 +1229,6 @@
     "title": "OpenIntro Statistics: Chapter 2",
     "section": "Standard deviation",
     "text": "Standard deviation\nThe standard deviation is the square root of the variance, and has the same units as the data.\n\\[\ns = \\sqrt{s^2}\n\\]\n\n\n\n\nThe standard deviation of amount of sleep students get per night can be calculated as:\n\\[\ns = \\sqrt{4.11} = 2.03~\\text{hours}\n\\]\n\nWe can see that all of the data are within 3 standard deviations of the mean."
-  },
-  {
-    "objectID": "course-materials/slides/chapter2.html#box-plots-quartiles-and-the-median",
-    "href": "course-materials/slides/chapter2.html#box-plots-quartiles-and-the-median",
-    "title": "OpenIntro Statistics: Chapter 2",
-    "section": "Box plots, quartiles, and the median",
-    "text": "Box plots, quartiles, and the median"
   },
   {
     "objectID": "course-materials/slides/chapter2.html#median",
@@ -1329,13 +1273,6 @@
     "text": "Outliers (cont.)\nQuestion: Why is it important to look for outliers?\n\n\nIdentify extreme skew in the distribution.\nIdentify data collection and entry errors.\nProvide insight into interesting features of the data."
   },
   {
-    "objectID": "course-materials/slides/chapter2.html#robust-statistics",
-    "href": "course-materials/slides/chapter2.html#robust-statistics",
-    "title": "OpenIntro Statistics: Chapter 2",
-    "section": "Robust Statistics",
-    "text": "Robust Statistics"
-  },
-  {
     "objectID": "course-materials/slides/chapter2.html#extreme-observations",
     "href": "course-materials/slides/chapter2.html#extreme-observations",
     "title": "OpenIntro Statistics: Chapter 2",
@@ -1364,18 +1301,18 @@
     "text": "Mean vs. median\n\nIf the distribution is symmetric, center is often defined as the mean: mean ≈ median"
   },
   {
+    "objectID": "course-materials/slides/chapter2.html#mean-vs.-median-continued",
+    "href": "course-materials/slides/chapter2.html#mean-vs.-median-continued",
+    "title": "OpenIntro Statistics: Chapter 2",
+    "section": "Mean vs. median (continued)",
+    "text": "Mean vs. median (continued)\n\nIf the distribution is skewed or has extreme outliers, center is often defined as the median\n\nRight-skewed: mean &gt; median\n\nLeft-skewed: mean &lt; median"
+  },
+  {
     "objectID": "course-materials/slides/chapter2.html#practice-1",
     "href": "course-materials/slides/chapter2.html#practice-1",
     "title": "OpenIntro Statistics: Chapter 2",
     "section": "Practice",
     "text": "Practice\nWhich is most likely true for the distribution of percentage of time actually spent taking notes in class versus on Facebook, Twitter, etc.?\n\n\n\n\n\n\n\nMedian: 80%\nMean: 76%\n\n\n\n\nmean &gt; median\n\nmean &lt; median\n\nmean ≈ median\n\nimpossible to tell\n\n\n\nAnswer: mean &lt; median"
-  },
-  {
-    "objectID": "course-materials/slides/chapter2.html#transforming-data",
-    "href": "course-materials/slides/chapter2.html#transforming-data",
-    "title": "OpenIntro Statistics: Chapter 2",
-    "section": "Transforming data",
-    "text": "Transforming data"
   },
   {
     "objectID": "course-materials/slides/chapter2.html#extremely-skewed-data",
@@ -1390,13 +1327,6 @@
     "title": "OpenIntro Statistics: Chapter 2",
     "section": "Pros and cons of transformations",
     "text": "Pros and cons of transformations\n\nSkewed data are easier to model with when they are transformed because outliers tend to become far less prominent after an appropriate transformation.\n\n\n\n\n# of games\n70\n50\n25\n⋯\n\n\n\n\nlog(# of games)\n4.25\n3.91\n3.22\n⋯\n\n\n\n\nHowever, results of an analysis in log units of the measured variable might be difficult to interpret.\n\n\n\nQ: What other variables would you expect to be extremely skewed?\n\n\n\n\nA: Salary, housing prices, etc."
-  },
-  {
-    "objectID": "course-materials/slides/chapter2.html#mapping-data",
-    "href": "course-materials/slides/chapter2.html#mapping-data",
-    "title": "OpenIntro Statistics: Chapter 2",
-    "section": "Mapping data",
-    "text": "Mapping data"
   },
   {
     "objectID": "course-materials/slides/chapter2.html#intensity-maps",
@@ -1490,16 +1420,6 @@
     "href": "project-description.html#course-project-description",
     "title": "Waypoint Partner Project",
     "section": "Course Project Description",
-<<<<<<< HEAD
-    "text": "Course Project Description\nThe goal of this project to answer Waypoints questions about the people who have participated in their new program and discover additoinal insights, using the data they provided and the Iowa Courtes Database.\nYou will not do an exhaustive data analysis i.e., calculate every statistic and procedure you have learned for every variable, but to visualize the data in a presentable, interpretative way to a public audience, and that answers Waypoints questions.\nThe project is very open ended. You should conduct an investigation of the data, investigate variables, and searching for insights. You should also create at least one very compelling visualization to can be used to shed light on your research question.\nSome ideas:\n\nBrochure\nComics\nChildren’s Book\nPoster/infographic\nVideo/tik tok\n\n\nDeliverables and Due Dates\n\nMid Block Presentation - Due Thursday, September 4th at 9am\nPresent Mid Block Presentation - Friday September 5th at 9am\nAnalysis report - Due Thursday September 14th at 11:59 pm via Moodle.\nIn progress final visual with presentation - Tentatively Due Friday September 15th at 2pm\nFinal visual - Tentatively Due Monday September 18th at 3pm\nSYS Showcase - Tuesday September 19th\nFinal Presentation to Waypoint - Wednesday September 20th\n\n\n\nMid-Block Presentation\nDue to the time it takes to do our data collection, this first presentation is more of an update for our partner, Waypoint. We will meet via Zoom; find the zoom link on our Google Calendar. I would like your group to include the following.\n\nPresentation Contents\nIncluding all of the items in your presentation. Use Google Slides saved in your group folder. Export the slides as PDF and submit them to Moodle immediately following the presentation Friday September 8th. I am asking your group to present for about 8-15 minutes total.\n\n\n\n\n\n\n\nTotal\n50 pts\n\n\n\n\nDescribe your project goals, in your groups words. Include the formal research questions.\n5 pts\n\n\nDiscuss the data collection your groups has been doing and the challenges involved. Consider the notes you have taken and different situations your group had to consider when recording data.\n15 pts\n\n\nGive a data analysis plan. What types of tables and graphs will be useful given the variables we will have available and research questions?\n10 pts\n\n\nDiscuss what form you want your final project to take (some examples above).\n10 pts\n\n\nOrganization of Presentation\n10 pts\n\n\n\n\n\nPresentation\nI am asking your group to present for about 8-15 minutes total.\n\n\n\n\n\n\n\nTotal\n50 pts\n\n\n\n\nTime management: Did the team divide the time well among themselves or got cut off going over time?\n15 pts\n\n\nProfessionalism: How well did the team present? Does the presentation appear to be well practiced?\n15 pts\n\n\nTeamwork: Did the team present a unified story, or did it seem like independent pieces of work patched together?\n10 pts\n\n\nFlow: Did the presentation move in a linear fashion outlining your projected process in a logical order.\n10 pts\n\n\n\n\n\n\nAnalysis Report\nThe report is written toward your professor (not a general audience). It’s purpose is to organize and detail all of your analysis you would like to use in your final product. Thus, if you decide a particular visualization is not useful don’t include it.\n\n1. Title\nGive an informative title to your project.\nAssessment: Does the title give an accurate preview of what the paper is about? Is it informative, specific and precise?\n\n\n2. Background and significance\nIn this section you are providing the background of the project area and arguing why it is interesting and significant. This section relies heavily on literature review (prior research done in this area and facts that argue why the research is important). This whole section should provide the necessary background leading up to your presentation. Well-accepted facts and/or referenced statements should serve as the majority of content of this section. Typically, the background and significance section starts very broad and moves towards the specific topic your group is presenting on.\nAssessment:\n- Does the background and significance have a logical organization? Does it move from the general to the specific?\n- Has a reasonable explanation been given for why the research was done? Why is the work important? Why is it relevant?\n- Does this section end with statements about the hypothesis/goals of the work?\n\n\n3. Methods\n\nData collection. Explain how the data was collected and where it is from. Who is it about?\nVariables and variable creation. Detail the variables in your analysis and how they are defined (if necessary). For example, if your group, or your professor, created new variables based on the raw data, or summaizes data, you make sure to define the new variables. Consider how some of the variables were collected by Waypoint or others and include that in your definitions.\nAnalytic Methods. Explain the statistical procedures that will be used to analyze your data. E.g. Boxplots are used to xxx and are created by xxx. You are not giving your results yet but giving textbook like explanations of all methods used.\n\nAssessment:\n\nCould the study be repeated based on the information given here?\nIs the material organized into logical categories (like the one’s above)?\n\n\n\n4. Results\nTypically, results sections start with descriptive statistics, e.g. what percent of the sample is each gender, what is the mean number of evictions overall, in the different groups, etc. Figures can be nice to illustrate these differences! However, information presented must be relevant in helping to answer the research question(s) of interest.\nTables and figures should be labeled, embedded in the text, and referenced appropriately. The results section typically makes for fairly dry reading. It does not explain the impact of findings, it merely highlights and reports statistical information.\nAssessment:\n\nIs the content appropriate for a results section? Is there a clear description of the results?\nAre the results/data analyzed well? Given the data in each figure/table is the interpretation accurate and logical? Is the analysis of the data thorough (anything ignored?)\nAre the figures/tables appropriate for the data being discussed? Are the figure legends and titles clear and concise?\n\n\n\n5. Discussion/Conclusions\nRestate your objective and draw connections between your analyses and objective. In other words, how did (or didn’t) you answer/address your objective. Place these all in the larger scope of previous research on your topic (i.e. what you found from the literature review), that is, how do your findings help the field move forward? Talk about the limitations of your findings and possible areas for future research to better investigate your research question. End with a concluding sentence or two that summarizes your key findings and impact on the field.\nAssessment:\n\nDo the authors clearly state whether the results answer the questions?\nWere specific data cited from the results to support each interpretation? Does the author clearly articulate the basis for supporting or rejecting each hypothesis?\nDoes the author adequately relate the results of the current work to previous research?\n\n\n\n6. References\nUse a standard such as APA or Chicago style for your references. Be consistent.\nAssessment:\n\nAre the references appropriate and of adequate quality?\nAre the references cited properly (both in the text and at the end of the paper)?\n\n\n\n7. Technical Quality\nClarity, organization, and writing quality (typos, grammar).\nCredit: The Undergraduate Statistics Project Competition\n\n\n\n\n\n\n\nTotal\n200 pts\n\n\n\n\n\nTitle\n\n10 pts\n\n\n\nBackground\n\n40 pts\n\n\n\nMethods\n\n40 pts\n\n\n\nResults\n\n40 pts\n\n\n\nConclusions\n\n30 pts\n\n\n\nReferences\n\n20 pts\n\n\n\nTechnical Quality\n\n20 pts\n\n\n\n\n\n\nVisual\n\nFinal Visual - In Progress\nYou and your group will present your ongoing project visual to your professor. This is less of a presentation and more of showing your plots and tables that will go into your visual, and having a detailed written plan.\n\n\n\n\n\n\n\nTotal\n50 pts\n\n\n\n\nIdentified the plots/tables from you analysis that will be included (they don’t need to look perfect yet). If you are creating something with a software other than Minitab you still need to show a version of that in progress table/graph.\n15 pts\n\n\nExplain and justify your choices of graphs/tables. Consider your audience.\n15 pts\n\n\nHave a working version of your visual such as software template you are filling in.\n10 pts\n\n\nA written outline of what is to be included in your visual and your graphs/tables chosen. Consider small details such as references.\n10 pts\n\n\n\n\n\nFinal Visual\nThe final visual as no specified requirement of medium but will be evaluated on the following criteria.\n\n\n\n\n\n\n\nTotal\n200 pts\n\n\n\n\nAestetics\n50 pts\n\n\nCorrectness of Statistical Analysis and Interpretation\n50 pts\n\n\nInformation Delivery (writing and graphs match intended audience)\n50 pts\n\n\nConnects literature and current research\n50 pts\n\n\n\n\n\n\nFinal Visual Presentations\nConsider the different audiences when presenting your visuals.\nSubmit main file or files on Moodle.\n\nWaypoint and Showcase Presentations\n\n\n\n\n\n\n\nTotal\n50 pts each pres.\n\n\n\n\nTime management: Did the team divide the time well among themselves? Did the presentation stay within the intended time?\n3 pts\n\n\nProject Focuss: Is the research question and/or purpose well designed and stated?\n5 pts\n\n\nProfessionalism: How well did the team present? Does the presentation appear to be well practiced? Did everyone get a chance to say something meaningful about the project?\n5 pts\n\n\nTeamwork: Did the team present a unified story, or did it seem like independent pieces of work patched together?\n5 pts\n\n\nContent: Did the team use impact visualizations and/or appropriate statistical procedures, and interpret the results accurately?\n10 pts\n\n\nCreativity and Critical Thought: Is the project carefully thought out? Are the limitations carefully considered? Does it appear that time and effort went into the planning and implementation of the visual?\n5 pts\n\n\nVisual/oranization: Is the visual well organized, readable, not full of text, featuring figures with legible labels, legends, etc.?\n10 pts\n\n\nAudience: Is the presentation appropriate for the audience?\n7 pts\n\n\n\n\n\n\nOverall Project Points\n\n\n\nTotal\n650 pts\n\n\n\n\nMid Block Presentation (files contents)\n50 pts\n\n\nMid Block Presentation\n50 pts\n\n\nAnalysis report\n200 pts\n\n\nIn progress final visual with presentation\n50 pts\n\n\nFinal visual\n200 pts\n\n\nFinal Presentation to Waypoint\n50 pts\n\n\nSYS Showcase\n50 pts\n\n\n\n\n\nGeneral Criteria/Rubric\nA general breakdown of scoring is as follows:\n\n90%-100% - Outstanding effort. Student understands how to apply all statistical concepts, can put the results into a visual that is interpretable to a general audience.\n80%-89% - Good effort. Student understands most of the concepts, puts together an adequate argument, and communicates most results clearly to others in interpretable visual.\n70%-79% - Passing effort. Student has misunderstanding of concepts in several areas, has some trouble putting results together in a cogent argument, and communication of results is sometimes unclear.\n60%-69% - Struggling effort. Student is making some effort, but has misunderstanding of many concepts and is unable to put together a cogent argument. Communication of results is unclear.\nBelow 60% - Student is not making a sufficient effort.\n\n\n\nTeam peer evaluation\nYou are to complete the assignment as a team. All team members are expected to contribute equally to the completion of this assignment and team evaluations will be given at its completion - anyone judged, by their teammates, to not have sufficient contributed to the final product will have their grade penalized. While different teams members may have different backgrounds and abilities, it is the responsibility of every team member to understand how and why all analysis was completed. You will be asked to fill out a survey where you report a contribution percentage for each team member. If you are suggesting that an individual did less than 20% of the work, please provide some explanation. If any individual gets an average peer score indicating that they did less than 10% of the work, this person will receive half the grade of the rest of the group."
-  },
-  {
-    "objectID": "course-materials/slides/chapter2.html#mean-vs.-median-continued",
-    "href": "course-materials/slides/chapter2.html#mean-vs.-median-continued",
-    "title": "OpenIntro Statistics: Chapter 2",
-    "section": "Mean vs. median (continued)",
-    "text": "Mean vs. median (continued)\n\nIf the distribution is skewed or has extreme outliers, center is often defined as the median\n\nRight-skewed: mean &gt; median\n\nLeft-skewed: mean &lt; median"
-=======
     "text": "Course Project Description\nThe goal of this project to answer Waypoints questions about the people who have participated in their new program and discover additoinal insights, using the data they provided and the Iowa Courtes Database.\nYou will not do an exhaustive data analysis i.e., calculate every statistic and procedure you have learned for every variable, but to visualize the data in a presentable, interpretative way to a public audience, and that answers Waypoints questions.\nThe project is very open ended. You should conduct an investigation of the data, investigate variables, and searching for insights. You should also create at least one very compelling visualization to can be used to shed light on your research question.\nSome ideas: Brochure, Comics, Children’s Book, Poster/infographic, Video/tik tok, Inforgraphic.",
     "crumbs": [
       "Project Description"
@@ -1514,6 +1434,5 @@
     "crumbs": [
       "Project Description"
     ]
->>>>>>> db3c882697f5261628a5c6d562c8d0c434429039
   }
 ]
