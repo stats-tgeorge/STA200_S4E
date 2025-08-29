@@ -21,27 +21,27 @@ You will not do an exhaustive data analysis i.e., calculate every statistic and 
 
 The project is very open ended. You should conduct an investigation of the data, investigate variables, and searching for insights. You should also create at least one very compelling visualization to can be used to shed light on your research question.
 
-Some ideas:
+Some ideas: Brochure, Comics, Children's Book, Poster/infographic, Video/tik tok, Inforgraphic. 
 
--   Brochure
+## Deliverables and Due Dates
 
--   Comics
+1)    Mid Block Presentation - Due Thursday, September 4th at 9am. Practice in Class.
 
--   Children's Book
+2)    Present Mid Block Presentation - Friday September 5th at 9am.
 
--   Poster/infographic
+3a)   Final visual with presentation - Due Friday September 12th at 9am. Practice in class. 
 
--   Video/tik tok
+3b)   Mid Analysis Report - Due Friday Setpember 12th at 9am.
 
-### Deliverables and Due Dates
+4)    Final Presentation to Waypoint - Monday September 15th
 
-1)  Mid Block Presentation - Due Thursday, September 4th at 9am
-2)  Present Mid Block Presentation - Friday September 5th at 9am
-3)  Analysis report - Due Thursday September 14th at 11:59 pm via [Moodle](https://moodle.cornellcollege.edu/mod/assign/view.php?id=274698&forceview=1).
-4)  In progress final visual with presentation - Tentatively Due Friday September 15th at 2pm
-5)  Final visual - Tentatively Due Monday September 18th at 3pm
-6)  SYS Showcase - Tuesday September 19th
-7)  Final Presentation to Waypoint - Wednesday September 20th
+5)    SYS Showcase - Tuesday September 16th
+
+6)    Final Analysis report - Due Wednesday September 17th at 11:59 am via Google Doc link on [Moodle](https://moodle.cornellcollege.edu/mod/assign/view.php?id=338264).
+
+
+
+
 
 ### Mid-Block Presentation
 
@@ -67,7 +67,7 @@ Including all of the items in your presentation. Use Google Slides saved in your
 
 #### Presentation
 
-I am asking your group to present for about 8-15 minutes total.
+I am asking your group to present for about 5-8 minutes total.
 
 +------------------------------------------------------------------------------------------------------------------+-----------+
 | Total                                                                                                            | 50 pts    |
@@ -159,27 +159,35 @@ Clarity, organization, and writing quality (typos, grammar).
 
 Credit: [The Undergraduate Statistics Project Competition](https://www.causeweb.org/usproc/report-template)
 
-+-----------------------+--------------+
-| Total                 | 200 pts      |
-+=======================+==============+
-| 1.  Title             | 10 pts       |
-+-----------------------+--------------+
-| 2.  Background        | 40 pts       |
-+-----------------------+--------------+
-| 3.  Methods           | 40 pts       |
-+-----------------------+--------------+
-| 4.  Results           | 40 pts       |
-+-----------------------+--------------+
-| 5.  Conclusions       | 30 pts       |
-+-----------------------+--------------+
-| 6.  References        | 20 pts       |
-+-----------------------+--------------+
-| 7.  Technical Quality | 20 pts       |
-+-----------------------+--------------+
+### Early-Submission of Analysis Reports
+
+At first submission, you should have all components of the report included; however, your paper may not be as polished. I will evaluate you across the same areas, but the total points are 50. Generally, I will be more forgiving and leave comments, but not always take off points during the first submission round. Our Learning Assistant will also review your paper to provide feedback, but will not be involved in the grading process. 
+
+
++-----------------------+------------------+-----------------+
+|                       | First Submission | Final Submission|
++=======================+==================+=================+
+| Total                 | 50 pts           | 150 pts         |
++-----------------------+------------------+-----------------+
+| 1.  Title             | 2.5 pts          | 7.5 pts         |
++-----------------------+------------------+-----------------+
+| 2.  Background        | 10 pts           | 30 pts          |
++-----------------------+------------------+-----------------+
+| 3.  Methods           | 10 pts           | 30 pts          |
++-----------------------+------------------+-----------------+
+| 4.  Results           | 10 pts           | 30 pts          |
++-----------------------+------------------+-----------------+
+| 5.  Conclusions       | 7.5 pts          | 22.5 pts        |
++-----------------------+------------------+-----------------+
+| 6.  References        | 5 pts            | 15 pts          |
++-----------------------+------------------+-----------------+
+| 7.  Technical Quality | 5 pts            | 15 pts          |
++-----------------------+------------------+-----------------+
+
 
 ### Visual
 
-#### Final Visual - In Progress
+#### Final Visual
 
 You and your group will present your ongoing project visual to your professor. This is less of a presentation and more of showing your plots and tables that will go into your visual, and having a detailed written plan.
 
@@ -200,15 +208,15 @@ You and your group will present your ongoing project visual to your professor. T
 The final visual as no specified requirement of medium but will be evaluated on the following criteria.
 
 +-------------------------------------------------------------------+-------------+
-| Total                                                             | 200 pts     |
+| Total                                                             | 100 pts     |
 +===================================================================+=============+
-| Aestetics                                                         | 50 pts      |
+| Aestetics                                                         | 25 pts      |
 +-------------------------------------------------------------------+-------------+
-| Correctness of Statistical Analysis and Interpretation            | 50 pts      |
+| Correctness of Statistical Analysis and Interpretation            | 25 pts      |
 +-------------------------------------------------------------------+-------------+
-| Information Delivery (writing and graphs match intended audience) | 50 pts      |
+| Information Delivery (writing and graphs match intended audience) | 25 pts      |
 +-------------------------------------------------------------------+-------------+
-| Connects literature and current research                          | 50 pts      |
+| Connects literature and current research                          | 25 pts      |
 +-------------------------------------------------------------------+-------------+
 
 ### Final Visual Presentations
@@ -241,15 +249,15 @@ Consider the different audiences when presenting your visuals.
 
 ### Overall Project Points
 
-| Total                                      | 650 pts |
+| Total                                      | 550 pts |
 |--------------------------------------------|---------|
 | Mid Block Presentation (files contents)    | 50 pts  |
 | Mid Block Presentation                     | 50 pts  |
-| Analysis report                            | 200 pts |
 | In progress final visual with presentation | 50 pts  |
-| Final visual                               | 200 pts |
+| Final visual                               | 100 pts |
 | Final Presentation to Waypoint             | 50 pts  |
 | SYS Showcase                               | 50 pts  |
+| Analysis report                            | 200 pts |
 
 ### General Criteria/Rubric
 

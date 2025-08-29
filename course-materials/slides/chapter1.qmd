@@ -186,7 +186,7 @@ What type of variable is a telephone area code?
 
 a. numerical, continuous  
 b. numerical, discrete  
-c. categorical (correct) 
+c. categorical
 d. categorical, ordinal
 
 . . .
@@ -256,18 +256,30 @@ There is one student with GPA > 4.0 — this is likely a data error.
 #### Practice question
 Based on the scatterplot on the right, which of the following statements is correct about the head and skull lengths of possums?
 :::
+
+a. There is no relationship between head length and skull width, i.e. the variables are independent.  
+b. Head length and skull width are positively associated. 
+c. Skull width and head length are negatively associated.  
+d. A longer head causes the skull to be wider.  
+e. A wider skull causes the head to be longer.
+
 :::
 ::: {.column}
 ![](figures/possum_head_skull/possum_head_skull.png)
 :::
 :::
 
-a. There is no relationship between head length and skull width, i.e. the variables are independent.  
-**b. Head length and skull width are positively associated. (correct)**  
-c. Skull width and head length are negatively associated.  
-d. A longer head causes the skull to be wider.  
-e. A wider skull causes the head to be longer.
 
+
+
+
+
+:::{.callout-tip}
+
+#### Answer
+b. Head length and skull width are positively associated.
+
+:::
 
 # Sampling principles and strategies
 
@@ -366,6 +378,8 @@ Brandt, *The Cigarette Century* (2009), Basic Books.
 - **Non-response:** If only a small fraction of the randomly sampled people respond, the sample may not be representative. 
 
 - **Voluntary response:** When people with strong opinions self-select into the sample, it’s not representative. 
+
+. . .
 
 ![](figures/vol_resp_bias/vol_resp_bias_q.png){width=25%} 
 ![](figures/vol_resp_bias/vol_resp_bias_res.png){width=25%}   

@@ -8,7 +8,7 @@ description: TBD
 
 ## Class Topics
 
-
+-   [Minitab](https://app.minitab.com) introduction.
 
 ## Homework 
 
