@@ -1434,5 +1434,194 @@
     "crumbs": [
       "Project Description"
     ]
+  },
+  {
+    "objectID": "course-materials/slides/chapter2.html#contingency-tables",
+    "href": "course-materials/slides/chapter2.html#contingency-tables",
+    "title": "OpenIntro Statistics: Chapter 2",
+    "section": "Contingency tables",
+    "text": "Contingency tables\nA table that summarizes data for two categorical variables is called a contingency table.\n\nThe contingency table below shows the distribution of survival and ages of passengers on the Titanic.\n\n\n\nAge\nDied\nSurvived\nTotal\n\n\n\n\nAdult\n1438\n654\n2092\n\n\nChild\n52\n57\n109\n\n\nTotal\n1490\n711\n2201"
+  },
+  {
+    "objectID": "course-materials/slides/chapter2.html#bar-plots",
+    "href": "course-materials/slides/chapter2.html#bar-plots",
+    "title": "OpenIntro Statistics: Chapter 2",
+    "section": "Bar plots",
+    "text": "Bar plots\nA bar plot is a common way to display a single categorical variable.\nA bar plot where proportions instead of frequencies are shown is called a relative frequency bar plot."
+  },
+  {
+    "objectID": "course-materials/slides/chapter2.html#choosing-the-appropriate-proportion",
+    "href": "course-materials/slides/chapter2.html#choosing-the-appropriate-proportion",
+    "title": "OpenIntro Statistics: Chapter 2",
+    "section": "Choosing the appropriate proportion",
+    "text": "Choosing the appropriate proportion\nDiscussion Question:\nDoes there appear to be a relationship between age and survival for passengers on the Titanic?\n\n\n\nAge\nDied\nSurvived\nTotal\n\n\n\n\nAdult\n1438\n654\n2092\n\n\nChild\n52\n57\n109\n\n\nTotal\n1490\n711\n2201\n\n\n\n\nTo answer this question we examine the row proportions:\n\n\n\n% Adults who survived: 654 / 2092 ≈ 0.31\n\n\n\n\n% Children who survived: 57 / 109 ≈ 0.52"
+  },
+  {
+    "objectID": "course-materials/slides/chapter2.html#bar-plots-with-two-variables",
+    "href": "course-materials/slides/chapter2.html#bar-plots-with-two-variables",
+    "title": "OpenIntro Statistics: Chapter 2",
+    "section": "Bar plots with two variables",
+    "text": "Bar plots with two variables\n\nStacked bar plot: Graphical display of contingency table information, for counts.\nSide-by-side bar plot: Displays the same information by placing bars next to, instead of on top of, each other.\nStandardized stacked bar plot: Graphical display of contingency table information, for proportions."
+  },
+  {
+    "objectID": "course-materials/slides/chapter2.html#bar-plots-with-two-variables-continued",
+    "href": "course-materials/slides/chapter2.html#bar-plots-with-two-variables-continued",
+    "title": "OpenIntro Statistics: Chapter 2",
+    "section": "Bar plots with two variables (continued)",
+    "text": "Bar plots with two variables (continued)\nDiscussion Question:\nWhat are the differences between the three visualizations shown below?"
+  },
+  {
+    "objectID": "course-materials/slides/chapter2.html#mosaic-plots-1",
+    "href": "course-materials/slides/chapter2.html#mosaic-plots-1",
+    "title": "OpenIntro Statistics: Chapter 2",
+    "section": "Mosaic plots",
+    "text": "Mosaic plots\nDiscussion Question:\nWhat is the difference between the two visualizations shown below?"
+  },
+  {
+    "objectID": "course-materials/slides/chapter2.html#pie-charts-1",
+    "href": "course-materials/slides/chapter2.html#pie-charts-1",
+    "title": "OpenIntro Statistics: Chapter 2",
+    "section": "Pie charts",
+    "text": "Pie charts\nDiscussion Question:\nCan you tell which order encompasses the lowest percentage of mammal species?\n \nData from http://www.bucknell.edu/msw3."
+  },
+  {
+    "objectID": "course-materials/slides/chapter2.html#side-by-side-box-plots",
+    "href": "course-materials/slides/chapter2.html#side-by-side-box-plots",
+    "title": "OpenIntro Statistics: Chapter 2",
+    "section": "Side-by-side box plots",
+    "text": "Side-by-side box plots\nDiscussion Question:\nDoes there appear to be a relationship between class year and number of clubs students are in?"
+  },
+  {
+    "objectID": "course-materials/slides/chapter2.html#gender-discrimination",
+    "href": "course-materials/slides/chapter2.html#gender-discrimination",
+    "title": "OpenIntro Statistics: Chapter 2",
+    "section": "Gender discrimination",
+    "text": "Gender discrimination\n\nIn 1972, as a part of a study on gender discrimination, 48 male bank supervisors were each given the same personnel file and asked to judge whether the person should be promoted to a branch manager job that was described as “routine”.\nThe files were identical except that half of the supervisors had files showing the person was male while the other half had files showing the person was female.\nIt was randomly determined which supervisors got “male” applications and which got “female” applications.\nOf the 48 files reviewed, 35 were promoted.\nThe study is testing whether females are unfairly discriminated against.\n\n\nDiscussion Question:\nIs this an observational study or an experiment?\n\n\nAnswer: Experiment\nB. Rosen and T. Jerdee (1974), “Influence of sex role stereotypes on personnel decisions”, J. Applied Psychology, 59:9–14."
+  },
+  {
+    "objectID": "course-materials/slides/chapter2.html#data",
+    "href": "course-materials/slides/chapter2.html#data",
+    "title": "OpenIntro Statistics: Chapter 2",
+    "section": "Data",
+    "text": "Data\nDiscussion Question:\nAt a first glance, does there appear to be a relationship between promotion and gender?\n\n\n\nGender\nPromoted\nNot Promoted\nTotal\n\n\n\n\nMale\n21\n3\n24\n\n\nFemale\n14\n10\n24\n\n\nTotal\n35\n13\n48\n\n\n\n\n% of males promoted: 21 / 24 = 0.875\n% of females promoted: 14 / 24 = 0.583"
+  },
+  {
+    "objectID": "course-materials/slides/chapter2.html#practice-2",
+    "href": "course-materials/slides/chapter2.html#practice-2",
+    "title": "OpenIntro Statistics: Chapter 2",
+    "section": "Practice",
+    "text": "Practice\nPractice Question:\nWe saw a difference of almost 30% (29.2% to be exact) between the proportion of male and female files that are promoted. Based on this information, which of the below is true?\n\nIf we were to repeat the experiment we will definitely see that more female files get promoted. This was a fluke.\nPromotion is dependent on gender, males are more likely to be promoted, and hence there is gender discrimination against women in promotion decisions.\n\n\n\nThe difference in the proportions of promoted male and female files is due to chance; this is not evidence of gender discrimination against women in promotion decisions.\n\n\n\n\nWomen are less qualified than men, and this is why fewer females get promoted."
+  },
+  {
+    "objectID": "course-materials/slides/chapter2.html#two-competing-claims",
+    "href": "course-materials/slides/chapter2.html#two-competing-claims",
+    "title": "OpenIntro Statistics: Chapter 2",
+    "section": "Two competing claims",
+    "text": "Two competing claims\n\n“There is nothing going on.”\nPromotion and gender are independent, no gender discrimination, observed difference in proportions is simply due to chance. → Null hypothesis\n\n\n\n“There is something going on.”\nPromotion and gender are dependent, there is gender discrimination, observed difference in proportions is not due to chance. → Alternative hypothesis"
+  },
+  {
+    "objectID": "course-materials/slides/chapter2.html#a-trial-as-a-hypothesis-test",
+    "href": "course-materials/slides/chapter2.html#a-trial-as-a-hypothesis-test",
+    "title": "OpenIntro Statistics: Chapter 2",
+    "section": "A trial as a hypothesis test",
+    "text": "A trial as a hypothesis test\n\n\n\nHypothesis testing is very much like a court trial.\nH₀: Defendant is innocent\nHₐ: Defendant is guilty\nWe then present the evidence — collect data.\n\n\n\n\n\nThen we judge the evidence — “Could these data plausibly have happened by chance if the null hypothesis were true?”\n\nIf they were very unlikely to have occurred, then the evidence raises more than a reasonable doubt in our minds about the null hypothesis.\n\nUltimately we must make a decision. How unlikely is unlikely?\n\nImage from http://www.nwherald.com/_internal/cimg!0/oo1il4sf8zzaqbboq25oevvbg99wpot_]()"
+  },
+  {
+    "objectID": "course-materials/slides/chapter2.html#a-trial-as-a-hypothesis-test-cont.",
+    "href": "course-materials/slides/chapter2.html#a-trial-as-a-hypothesis-test-cont.",
+    "title": "OpenIntro Statistics: Chapter 2",
+    "section": "A trial as a hypothesis test (cont.)",
+    "text": "A trial as a hypothesis test (cont.)\n\nIn a trial, the burden of proof is on the prosecution.\nIn a hypothesis test, the burden of proof is on the unusual claim.\nThe null hypothesis is the ordinary state of affairs (the status quo), so it’s the alternative hypothesis that we consider unusual and for which we must gather evidence."
+  },
+  {
+    "objectID": "course-materials/slides/chapter2.html#a-trial-as-a-hypothesis-test-cont.-1",
+    "href": "course-materials/slides/chapter2.html#a-trial-as-a-hypothesis-test-cont.-1",
+    "title": "OpenIntro Statistics: Chapter 2",
+    "section": "A trial as a hypothesis test (cont.)",
+    "text": "A trial as a hypothesis test (cont.)\n\nIn a trial, the burden of proof is on the prosecution.\nIn a hypothesis test, the burden of proof is on the unusual claim.\nThe null hypothesis is the ordinary state of affairs (the status quo), so it’s the alternative hypothesis that we consider unusual and for which we must gather evidence."
+  },
+  {
+    "objectID": "course-materials/slides/chapter2.html#recap-hypothesis-testing-framework",
+    "href": "course-materials/slides/chapter2.html#recap-hypothesis-testing-framework",
+    "title": "OpenIntro Statistics: Chapter 2",
+    "section": "Recap: hypothesis testing framework",
+    "text": "Recap: hypothesis testing framework\n\nWe start with a null hypothesis (H₀) that represents the status quo.\nWe also have an alternative hypothesis (Hₐ) that represents our research question, i.e., what we’re testing for.\nWe conduct a hypothesis test under the assumption that the null hypothesis is true, either via simulation (today) or theoretical methods (later in the course).\nIf the test results suggest that the data do not provide convincing evidence for the alternative hypothesis, we stick with the null hypothesis. If they do, then we reject the null hypothesis in favor of the alternative.\n\n#Testing via simulation"
+  },
+  {
+    "objectID": "course-materials/slides/chapter2.html#simulating-the-experiment",
+    "href": "course-materials/slides/chapter2.html#simulating-the-experiment",
+    "title": "OpenIntro Statistics: Chapter 2",
+    "section": "Simulating the experiment…",
+    "text": "Simulating the experiment…\n… under the assumption of independence, i.e., leave things up to chance.\n\nIf results from the simulations based on the chance model look like the data, then we can determine that the difference between the proportions of promoted files between males and females was simply due to chance (promotion and gender are independent).\n\n\nIf the results from the simulations based on the chance model do not look like the data, then we can determine that the difference between the proportions of promoted files between males and females was not due to chance, but due to an actual effect of gender (promotion and gender are dependent)."
+  },
+  {
+    "objectID": "course-materials/slides/chapter2.html#application-activity-simulating-the-experiment",
+    "href": "course-materials/slides/chapter2.html#application-activity-simulating-the-experiment",
+    "title": "OpenIntro Statistics: Chapter 2",
+    "section": "Application activity: simulating the experiment",
+    "text": "Application activity: simulating the experiment\nActivity:\nUse a deck of playing cards to simulate this experiment.\n\nLet a face card represent not promoted and a non-face card represent promoted. Consider aces as face cards.\n\nSet aside the jokers.\n\nTake out 3 aces → there are exactly 13 face cards left in the deck (face cards: A, K, Q, J).\n\nTake out a number card → there are exactly 35 number (non-face) cards left in the deck (number cards: 2–10).\n\nShuffle the cards and deal them into two groups of size 24, representing males and females.\nCount and record how many files in each group are promoted (number cards).\nCalculate the proportion of promoted files in each group and take the difference (male − female), and record this value.\nRepeat steps 2–4 many times."
+  },
+  {
+    "objectID": "course-materials/slides/chapter2.html#step-1",
+    "href": "course-materials/slides/chapter2.html#step-1",
+    "title": "OpenIntro Statistics: Chapter 2",
+    "section": "Step 1",
+    "text": "Step 1"
+  },
+  {
+    "objectID": "course-materials/slides/chapter2.html#step-2---4",
+    "href": "course-materials/slides/chapter2.html#step-2---4",
+    "title": "OpenIntro Statistics: Chapter 2",
+    "section": "Step 2 - 4",
+    "text": "Step 2 - 4\n\n#Checking for independence"
+  },
+  {
+    "objectID": "course-materials/slides/chapter2.html#practice-3",
+    "href": "course-materials/slides/chapter2.html#practice-3",
+    "title": "OpenIntro Statistics: Chapter 2",
+    "section": "Practice",
+    "text": "Practice\nPractice Question:\nDo the results of the simulation you just ran provide convincing evidence of gender discrimination against women, i.e., dependence between gender and promotion decisions?\n\nNo, the data do not provide convincing evidence for the alternative hypothesis, therefore we can’t reject the null hypothesis of independence between gender and promotion decisions. The observed difference between the two proportions was due to chance.\n\n\nAnswer: Yes, the data provide convincing evidence for the alternative hypothesis of gender discrimination against women in promotion decisions. The observed difference between the two proportions was due to a real effect of gender."
+  },
+  {
+    "objectID": "course-materials/slides/chapter2.html#simulations-using-software",
+    "href": "course-materials/slides/chapter2.html#simulations-using-software",
+    "title": "OpenIntro Statistics: Chapter 2",
+    "section": "Simulations using software",
+    "text": "Simulations using software\nThese simulations are tedious and slow to run using the method described earlier. In reality, we use software to generate the simulations. The dot plot below shows the distribution of simulated differences in promotion rates based on 100 simulations."
+  },
+  {
+    "objectID": "course-materials/slides/chapter2.html#bar-plots-continued",
+    "href": "course-materials/slides/chapter2.html#bar-plots-continued",
+    "title": "OpenIntro Statistics: Chapter 2",
+    "section": "Bar plots (continued)",
+    "text": "Bar plots (continued)\nDiscussion Question:\nHow are bar plots different than histograms?\n\n-Bar plots are used for displaying distributions of categorical variables,\nhistograms are used for numerical variables.\n\n\n-The x-axis in a histogram is a number line, hence the order of the bars cannot be changed.\n\n\n-In a bar plot, the categories can be listed in any order (though some orderings make more sense than others, especially for ordinal variables)."
+  },
+  {
+    "objectID": "course-materials/slides/chapter2.html#section",
+    "href": "course-materials/slides/chapter2.html#section",
+    "title": "OpenIntro Statistics: Chapter 2",
+    "section": "",
+    "text": "In a trial, the burden of proof is on the prosecution.\nIn a hypothesis test, the burden of proof is on the unusual claim.\nThe null hypothesis is the ordinary state of affairs (the status quo), so it’s the alternative hypothesis that we consider unusual and for which we must gather evidence."
+  },
+  {
+    "objectID": "course-materials/slides/chapter2.html#section-1",
+    "href": "course-materials/slides/chapter2.html#section-1",
+    "title": "OpenIntro Statistics: Chapter 2",
+    "section": "",
+    "text": "In a trial, the burden of proof is on the prosecution.\nIn a hypothesis test, the burden of proof is on the unusual claim.\nThe null hypothesis is the ordinary state of affairs (the status quo), so it’s the alternative hypothesis that we consider unusual and for which we must gather evidence."
+  },
+  {
+    "objectID": "course-materials/slides/chapter2.html#test",
+    "href": "course-materials/slides/chapter2.html#test",
+    "title": "OpenIntro Statistics: Chapter 2",
+    "section": "test",
+    "text": "test\n\nIf the evidence is not strong enough to reject the assumption of innocence, the jury returns with a verdict of “not guilty.”\n\nThe jury does not say that the defendant is innocent, just that there is not enough evidence to convict.\n\nThe defendant may, in fact, be innocent, but the jury has no way of being sure.\n\nSaid statistically, we fail to reject the null hypothesis.\n\nWe never declare the null hypothesis to be true, because we simply do not know whether it’s true or not.\n\nTherefore we never “accept the null hypothesis.”"
+  },
+  {
+    "objectID": "course-materials/slides/chapter2.html#test-1",
+    "href": "course-materials/slides/chapter2.html#test-1",
+    "title": "OpenIntro Statistics: Chapter 2",
+    "section": "test",
+    "text": "test\n\nIf the evidence is not strong enough to reject the assumption of innocence, the jury returns with a verdict of “not guilty.”\n\nThe jury does not say that the defendant is innocent, just that there is not enough evidence to convict.\n\nThe defendant may, in fact, be innocent, but the jury has no way of being sure.\n\nSaid statistically, we fail to reject the null hypothesis.\n\nWe never declare the null hypothesis to be true, because we simply do not know whether it’s true or not.\n\nTherefore we never “accept the null hypothesis.”"
   }
 ]
