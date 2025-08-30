@@ -1,62 +1,51 @@
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\section{Considering categorical data}
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+# Considering categorical data}
 
-\subsection{Contingency tables and bar plots}
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+#Contingency tables and bar plots
 
-\begin{frame}
-\frametitle{Contingency tables}
+## Contingency tables
 
-A table that summarizes data for two categorical variables is called a \hl{contingency table}.
+A table that summarizes data for two categorical variables is called a **contingency table**.
 
-$\:$ \\
-\pause
+. . .
+
 The contingency table below shows the distribution of survival and ages of passengers on the Titanic.
 
-\begin{center}
-\begin{tabular}{l l cc r}
-					               & 			 & \multicolumn{2}{c}{{Survival}} \\
-  \cline{3-4}
-					               &			 & Died	 & Survived	& Total \\ 
-  \cline{2-5}
-\multirow{2}{*}{{Age}}& Adult & 1438  & 654 	  	& 2092 \\ 
-  					             & Child & 52 	 & 57	 	    & 109\\ 
-  \cline{2-5}
-  					             & Total & 1490  & 711	    &  2201 \\
-  \cline{2-5}
-\end{tabular}
-\end{center}
-\end{frame}
+| Age   | Died | Survived | Total |
+|-------|------|----------|-------|
+| Adult | 1438 | 654      | 2092  |
+| Child | 52   | 57       | 109   |
+| Total | 1490 | 711      | 2201  |
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+## Bar plots
 
-\begin{frame}
-\frametitle{Bar plots}
+A **bar plot** is a common way to display a single categorical variable.  
+A bar plot where proportions instead of frequencies are shown is called a **relative frequency bar plot**.
 
-A \hl{bar plot} is a common way to display a single categorical variable. A bar plot where proportions instead of frequencies are shown is called a \hl{relative frequency bar plot}.
+![](2-2_categorical_data/figures/titanic_age_survival/titanic_bar){width=45%}
+![](2-2_categorical_data/figures/titanic_age_survival/titanic_rel_bar){width=45%}
 
-\begin{center}
-\includegraphics[width=0.45\textwidth]{2-2_categorical_data/figures/titanic_age_survival/titanic_bar}
-\includegraphics[width=0.45\textwidth]{2-2_categorical_data/figures/titanic_age_survival/titanic_rel_bar}
-\end{center}
+. . .
 
-\pause
+**Discussion Question:**  
+How are bar plots different than histograms?
 
-\dq{How are bar plots different than histograms?}
+. . .
 
-\soln{\pause{{\tiny Bar plots are used for displaying distributions of categorical variables,  histograms are used for numerical variables. The x-axis in a histogram is a number line,  hence the order of the bars cannot be changed. In a bar plot, the categories can be listed in any order (though some orderings make more sense than others, especially for ordinal variables.)}}}
+<small>
+Bar plots are used for displaying distributions of categorical variables,  
+histograms are used for numerical variables.  
+The x-axis in a histogram is a number line, hence the order of the bars cannot be changed.  
+In a bar plot, the categories can be listed in any order (though some orderings make more sense than others, especially for ordinal variables).
+</small>
 
-\end{frame}
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\subsection{Row and column proportions}
+# Row and column proportions
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 
 \begin{frame}
 \frametitle{Choosing the appropriate proportion}
