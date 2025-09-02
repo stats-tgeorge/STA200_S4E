@@ -2,20 +2,21 @@
 title: "Day 7"
 format: html
 date: "2-September-2025"
-Homework Due: TBD
-description: TBD
+Homework Due: None
+description: Minitab Activity, Projects
 ---
 
 ## Class Topics
 
+-   Work on group projects. Cleaning data!
 
-- Minitab LEGO Lab (Ava)
+-   Minitab LEGO Lab (Ava).
 
+    -   Questions - [THIS LINK](/course-materials/activities/Graphing activity.docx).
 
+    -   Data - [THIS LINK.](/course-materials/activities/lego_dataset.xlsx)
 
-## Homework 
+## Homework
 
-- Exam Review
-
-
-
+-   Exam Review Session (7-8pm, West Science 200).
+    -   Backup, West Science 3rd floor lounge.
