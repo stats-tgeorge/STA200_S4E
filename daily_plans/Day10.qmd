@@ -1,0 +1,17 @@
+---
+title: "Day 10"
+format: html
+date: "5-September-2025"
+Homework Due:
+description: Project Mid-Presentations
+---
+
+## Class Topics
+
+- Present to Waypoint.
+- Ask Waypoint questions.
+- Plan for next steps.
+
+## Homework
+
+-   Projects
