@@ -1,24 +1,23 @@
 ---
-title: "Day 7"
+title: "Day 9"
 format: html
-date: "2-September-2025"
-Homework Due: None
-description: Minitab Activity, Projects
+date: "4-September-2025"
+Homework Due: Project
+description: Projects
 ---
 
 ## Class Topics
 
--   Work on group projects. Cleaning data!
+-   Work on group projects.
 
--   Minitab LEGO Lab (Ava).
+    -   Cleaning data
 
-    -   Questions - [THIS LINK](/course-materials/activities/Graphing%20activity.docx).
+    -   Start visualizing
 
-    -   Data - [THIS LINK.](/course-materials/activities/lego_dataset.xlsx)
+    -   Make presentation
+
+    -   Practice present
 
 ## Homework
 
--   Exam Review Session (7-8pm, West Science 200).
-    -   Backup, West Science 3rd floor lounge.
-    -   Exam Review at [THIS LINK](/course-materials/activities/Exam Review.docx).
-    -   Exam Review solutions at [THIS LINK](/course-materials/activities/Exam_review_answer_key.pdf).
+-   Projects
