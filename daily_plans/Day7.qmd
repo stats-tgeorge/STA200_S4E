@@ -1,23 +1,18 @@
 ---
-title: "Day 9"
+title: "Day 7"
 format: html
-date: "4-September-2025"
+date: "2-September-2025"
 Homework Due: Project
 description: Projects
 ---
 
 ## Class Topics
 
--   Work on group projects.
+-   OpenIntro homework discussion
 
-    -   Cleaning data
-
-    -   Start visualizing
-
-    -   Make presentation
-
-    -   Practice present
+-   Minitab activity
 
 ## Homework
 
--   Projects
+-   Review session at 7 pm, in West 200.
+-   Study for exam

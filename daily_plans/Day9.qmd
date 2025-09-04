@@ -1,15 +1,23 @@
 ---
-title: "Day 8"
+title: "Day 9"
 format: html
-date: "3-September-2025"
+date: "4-September-2025"
 Homework Due:
-description: Statistics Exam (No Afternoon)
+description: Projects
 ---
 
-Statistics Exam
+## Class Topics
 
-Afternoon Off. 
+-   Work on group projects.
 
+    -   Cleaning data
 
+    -   Start visualizing
 
+    -   Make presentation
 
+    -   Practice present
+
+## Homework
+
+-   Projects
