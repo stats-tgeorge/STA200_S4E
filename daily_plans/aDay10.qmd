@@ -1,0 +1,32 @@
+---
+title: "Day 10"
+format: html
+date: "5-September-2025"
+Homework Due:
+description: Project Mid-Presentations
+---
+
+## Class Topics
+
+-   Exams to be turned back on Monday.
+-   Present to Waypoint.
+-   Ask Waypoint questions.
+-   Plan for next steps.
+
+## Homework
+
+-   Project
+
+    -   Work on completing the background and significance section of your Analysis report. I will read them on Monday.
+
+-   Watch *How to turn data into stories.* Click [HERE](https://www.youtube.com/watch?v=Hfx1X9WSGYQ).
+
+    -   Answer the following and submit at [THIS LINK](https://moodle.cornellcollege.edu/mod/assign/view.php?id=339056).
+
+        -   Summarize the video content.
+
+        -   What did you learn about storytelling with data?
+
+        -   Give an explicit example of how you could use her principles in the current project.
+
+        -   Identify what you will want to avoid when storytelling with data.
