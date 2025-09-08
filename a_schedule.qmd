@@ -8,6 +8,7 @@ listing:
     name: "Howework Due"
     custom-field: "Custom"
   fields: [title,date,description,Homework Due]
+  sort: "date"
 ---
 
 
