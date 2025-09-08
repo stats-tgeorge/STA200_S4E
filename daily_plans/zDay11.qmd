@@ -1,0 +1,23 @@
+---
+title: "Day 11"
+format: html
+date: "8-September-2025"
+Homework Due:
+description: Project Mid-Presentations
+---
+
+## Class Topics
+
+-   Go over exam
+-   Projects
+    -   Answer key questions
+    -   Visual choice
+    -   Identify plots to use
+-   Make an evening plan
+
+## Homework
+
+-   Project
+
+    -   Clean up plots for use in visual
+    -   Draft visual

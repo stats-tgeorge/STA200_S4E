@@ -1,0 +1,20 @@
+---
+title: "Day 12"
+format: html
+date: "9-September-2025"
+Homework Due:
+description: Project Mid-Presentations
+---
+
+## Class Topics
+
+-   Projects
+    -   Paper - methods section
+    -   Working on visual
+-   Make an evening plan
+
+## Homework
+
+-   Project
+    -   Methods section complete
+    -   Working on visual

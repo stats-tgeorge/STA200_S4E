@@ -1,0 +1,21 @@
+---
+title: "Day 15"
+format: html
+date: "12-September-2025"
+Homework Due:
+description: Project Mid-Presentations
+---
+
+## Class Topics
+
+-   Project
+    -   Practice presentations
+    -   Finalize visual (for printing)
+    -   Practice prints
+
+## Homework
+
+-   Project
+
+    -   Paper results section complete
+    -   Draft visual

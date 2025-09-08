@@ -1,0 +1,20 @@
+---
+title: "Day 14"
+format: html
+date: "11-September-2025"
+Homework Due:
+description: Project Mid-Presentations
+---
+
+## Class Topics
+
+-   Projects
+    -   Paper discussion section
+    -   Cleaning up visual
+-   Make an evening plan
+
+## Homework
+
+-   Project
+
+    -   Full report due
