@@ -3,7 +3,7 @@ title: "Day 12"
 format: html
 date: "9-September-2025"
 Homework Due:
-description: Project Mid-Presentations
+description: Project
 ---
 
 ## Class Topics
