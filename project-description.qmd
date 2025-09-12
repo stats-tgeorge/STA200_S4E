@@ -31,13 +31,17 @@ Some ideas: Brochure, Comics, Children's Book, Poster/infographic, Video/tik tok
 
 3a)   Final visual with presentation - Due Friday September 12th at 9am. Practice in class. 
 
-3b)   Mid Analysis Report - Due Friday Setpember 12th at 9am.
+  Submit by placing PDF or image file of your final visual in group Google Drive folder. Extension to Friday 9/12 at 11:59pm. 
+  
+3b)   Full Draft of Analysis Report - Due Friday September 12th at 11:59pm.
 
+  Submit at [THIS LINK](https://moodle.cornellcollege.edu/mod/assign/view.php?id=338264) on Moodle.
+  
 4)    Final Presentation to Waypoint - Monday September 15th
 
 5)    SYS Showcase - Tuesday September 16th
 
-6)    Final Analysis report - Due Wednesday September 17th at 11:59 am via Google Doc link on [Moodle](https://moodle.cornellcollege.edu/mod/assign/view.php?id=338264).
+6)    Final Analysis report - Due Wednesday September 17th at 11:59 am via Google Doc link on [Moodle](https://moodle.cornellcollege.edu/mod/assign/view.php?id=339796).
 
 
 
@@ -197,7 +201,7 @@ Clarity, organization, and writing quality (typos, grammar).
 
 Credit: [The Undergraduate Statistics Project Competition](https://www.causeweb.org/usproc/report-template)
 
-### Early-Submission of Analysis Reports
+### Full Draft of Analysis Reports
 
 At first submission, you should have all components of the report included; however, your paper may not be as polished. I will evaluate you across the same areas, but the total points are 50. Generally, I will be more forgiving and leave comments, but not always take off points during the first submission round. Our Learning Assistant will also review your paper to provide feedback, but will not be involved in the grading process. 
 
@@ -222,7 +226,9 @@ At first submission, you should have all components of the report included; howe
 | 7.  Technical Quality | 5 pts            | 15 pts          |
 +-----------------------+------------------+-----------------+
 
-Submit at [THIS LINK](https://moodle.cornellcollege.edu/mod/assign/view.php?id=338264) on Moodle. 
+Submit Full Draft at [THIS LINK](https://moodle.cornellcollege.edu/mod/assign/view.php?id=338264) on Moodle. 
+
+Submit Final Draft at [THIS LINK](https://moodle.cornellcollege.edu/mod/assign/view.php?id=339796) on Moodle. 
 
 ### Visual
 
